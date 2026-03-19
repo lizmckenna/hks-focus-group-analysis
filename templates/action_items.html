@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-header">
+  <h1>Action Items</h1>
+  <p class="subtitle">Follow-up items for the task force based on student feedback</p>
+</div>
+
+<p>Some student comments raise important concerns but lack the specificity needed to act on them directly. These items are flagged for follow-up, ideally by gathering more particular examples without citing specific students or professors.</p>
+
+<h2>Flagged for Follow-Up</h2>
+<ul class="action-list">
+  {% for item in action_items %}
+  <li class="fade-in">
+    <div class="action-label">{{ item.theme_label }} · {{ item.program }}</div>
+    <div class="pull-quote" style="font-size: 1rem; margin: 12px 0;">
+      "{{ item.quote }}"
+    </div>
+    <p>{{ item.context }}</p>
+    <p><strong>What's needed:</strong> {{ item.follow_up }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+{% if general_recommendations %}
+<h2>General Recommendations</h2>
+{% for rec in general_recommendations %}
+<div class="callout fade-in">
+  <div class="callout-label">Recommendation</div>
+  <h3 style="margin-top: 8px;">{{ rec.title }}</h3>
+  <p>{{ rec.description }}</p>
+  {% if rec.quotes %}
+  <div class="quote-gallery" style="margin-top: 16px;">
+    {% for q in rec.quotes %}
+    <div class="quote-card">
+      <div class="quote-text">"{{ q.text[:200] }}{% if q.text | length > 200 %}...{% endif %}"</div>
+      <div class="quote-meta">{{ q.program }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
+{% endif %}
+{% endblock %}

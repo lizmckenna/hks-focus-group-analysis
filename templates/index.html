@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-header">
+  <h1>Teaching & Learning at HKS</h1>
+  <p class="subtitle">Student perspectives on classroom culture, academic rigor, and professionalism across five degree programs</p>
+</div>
+
+<div class="stats-grid fade-in">
+  <div class="stat-card">
+    <div class="stat-value">5</div>
+    <div class="stat-label">Focus groups</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ n_programs }}</div>
+    <div class="stat-label">Degree programs</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ n_themes }}</div>
+    <div class="stat-label">Themes identified</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">~39</div>
+    <div class="stat-label">Participants</div>
+  </div>
+</div>
+
+<h2>Context</h2>
+<p>As part of HKS's vision and strategy initiative, the academic dean's office convened five focus groups in February 2025 to collect structured student input on the teaching and learning environment. For each degree program (MPP1, MPP2, MCMPA, MPA/ID, and joint/dual degree), invitations were sent to a randomly selected sample of students. Participation was voluntary among those invited.</p>
+<div class="placeholder">[PLACEHOLDER: Report the number of students invited versus the number who accepted versus the number who attended, per program. Liz to confirm.]</div>
+<p>The conversations were guided by a broad definition of professionalism: the behaviors, expectations, and norms that foster a collaborative learning environment and prepare students for professional life. This lens applies in both directions, to student conduct and to faculty practice. Students were invited to reflect on what's working, what's not, and what they'd change.</p>
+<p><strong>A note on scope:</strong> Each program is represented by a single focus group. These are exploratory observations from specific conversations, not generalizable claims about program-wide opinion. See <a href="methodology.html">Methodology</a> for full caveats.</p>
+
+<h2>What Students Value</h2>
+<p>Students across programs expressed genuine appreciation for aspects of the HKS teaching and learning environment. These observations are important context for the critiques that follow.</p>
+
+{% for quote in positive_quotes %}
+<div class="pull-quote fade-in">
+  "{{ quote.text }}"
+  <span class="attribution">{{ quote.program }} participant{% if quote.note %} · {{ quote.note }}{% endif %}</span>
+</div>
+{% endfor %}
+
+<h2>Key Findings</h2>
+<p>Ten themes emerged from the analysis, spanning student and faculty professionalism, classroom norms, assessment practices, and curriculum structure. A common thread: students want clarity, consistency, and mutual accountability.</p>
+
+{% for finding in key_findings %}
+<div class="fade-in" style="margin-bottom: 40px;">
+  <h3><a href="themes/{{ finding.id }}.html" style="color: var(--text); text-decoration: none;">{{ finding.label }}</a></h3>
+  <p>{{ finding.description }}</p>
+  {% if finding.quotes %}
+  {% for q in finding.quotes[:2] %}
+  <div class="pull-quote" style="font-size: 1.0625rem;">
+    "{{ q.text }}"
+    <span class="attribution">{{ q.program }} participant{% if q.note %} · {{ q.note }}{% endif %}</span>
+  </div>
+  {% endfor %}
+  {% if finding.quotes | length > 2 %}
+  <button class="quote-toggle-btn" data-target="more-{{ finding.id }}" data-label="Show {{ finding.quotes | length - 2 }} more quotes">Show {{ finding.quotes | length - 2 }} more quotes</button>
+  <div class="quote-toggle-content" id="more-{{ finding.id }}">
+    {% for q in finding.quotes[2:] %}
+    <div class="pull-quote" style="font-size: 1rem;">
+      "{{ q.text }}"
+      <span class="attribution">{{ q.program }}{% if q.note %} · {{ q.note }}{% endif %}</span>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endif %}
+  <p style="font-size: 0.875rem;"><a href="themes/{{ finding.id }}.html">Read full analysis &rarr;</a></p>
+</div>
+{% endfor %}
+
+<h2>Theme Map</h2>
+<p>Each point represents a student utterance, positioned by how similar it is to other utterances in meaning. Points that cluster together are about similar topics. Colors correspond to themes listed in the legend. Gray points are conversational fragments (introductions, filler, exercise logistics) excluded from thematic analysis. Hover to read the actual quote behind any point.</p>
+<div class="chart-container fade-in">
+  {{ theme_scatter_html | safe }}
+</div>
+
+<h2>Cross-Program Patterns</h2>
+<p>This heatmap shows how many student utterances from each program fell into each theme. Darker cells mean more discussion of that topic. For example, joint/dual degree students (MIXED) drove much of the conversation about core curriculum structure, while MPP2s and MCMPAs focused more on feedback and assessment practices. Differences may reflect genuine program-specific concerns, or simply the direction each conversation happened to take.</p>
+<div class="chart-container fade-in">
+  {{ heatmap_html | safe }}
+</div>
+
+<h2>Explore</h2>
+<div class="stats-grid">
+  <a href="themes/index.html" class="stat-card" style="text-decoration:none;">
+    <div class="stat-label">Themes</div>
+    <div style="margin-top:8px; color: var(--text-secondary); font-size: 0.875rem;">Each theme with curated quotes, cross-program analysis, and discussion questions</div>
+  </a>
+  <a href="programs/index.html" class="stat-card" style="text-decoration:none;">
+    <div class="stat-label">Programs</div>
+    <div style="margin-top:8px; color: var(--text-secondary); font-size: 0.875rem;">Per-program profiles: what each group emphasized, distinctive vocabulary</div>
+  </a>
+  <a href="sentiment.html" class="stat-card" style="text-decoration:none;">
+    <div class="stat-label">Sentiment</div>
+    <div style="margin-top:8px; color: var(--text-secondary); font-size: 0.875rem;">Emotional trajectory through each session and across themes</div>
+  </a>
+  <a href="action-items.html" class="stat-card" style="text-decoration:none;">
+    <div class="stat-label">Action Items</div>
+    <div style="margin-top:8px; color: var(--text-secondary); font-size: 0.875rem;">Follow-up items and discussion questions for the task force</div>
+  </a>
+</div>
+{% endblock %}

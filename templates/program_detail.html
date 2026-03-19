@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-header">
+  <h1>{{ program_id }} Focus Group</h1>
+  <p class="subtitle">{{ n_turns }} student turns · Mean sentiment: {{ "%.2f" | format(mean_sentiment) }}</p>
+</div>
+
+<div class="stats-grid fade-in">
+  <div class="stat-card">
+    <div class="stat-value">{{ n_turns }}</div>
+    <div class="stat-label">Student turns</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ total_words }}</div>
+    <div class="stat-label">Total words</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.2f" | format(mean_sentiment) }}</div>
+    <div class="stat-label">Mean sentiment</div>
+  </div>
+</div>
+
+<h2>Sentiment Arc</h2>
+<p>Emotional trajectory through the {{ program_id }} focus group session. Hover over points to read actual quotes.</p>
+<div class="chart-container fade-in">
+  {{ sentiment_arc_html | safe }}
+</div>
+
+<h2>Distinctive Vocabulary</h2>
+<img src="../static/img/wordcloud_{{ program_id }}.png" alt="{{ program_id }} word cloud" class="wordcloud-img fade-in">
+
+<h2>Top Themes</h2>
+{% for theme in top_themes %}
+<div class="theme-card fade-in">
+  <h3><a href="../themes/theme-{{ theme.id }}.html">{{ theme.label }}</a></h3>
+  <div class="theme-meta">{{ theme.count }} utterances in this group</div>
+  {% if theme.sample_quote %}
+  <div class="pull-quote" style="font-size: 1rem;">
+    "{{ theme.sample_quote[:200] }}{% if theme.sample_quote | length > 200 %}...{% endif %}"
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
+
+{% if keywords %}
+<h2>Distinctive Keywords</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+  {% for kw, score in keywords[:20] %}
+  <span class="program-label">{{ kw }}</span>
+  {% endfor %}
+</div>
+{% endif %}
+{% endblock %}

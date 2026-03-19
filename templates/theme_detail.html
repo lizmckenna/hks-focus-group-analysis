@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-header">
+  <h1>{{ theme.label }}</h1>
+  <p class="subtitle">{{ theme.size }} utterances across {{ theme.program_distribution | length }} programs</p>
+</div>
+
+{% if theme.curated_quotes %}
+<div class="pull-quote fade-in" style="font-size: 1.375rem;">
+  "{{ theme.curated_quotes[0].text }}"
+  <span class="attribution">{{ theme.curated_quotes[0].program }} participant{% if theme.curated_quotes[0].note %} · {{ theme.curated_quotes[0].note }}{% endif %}</span>
+</div>
+{% endif %}
+
+<h2>Analysis</h2>
+<p>{{ theme.description }}</p>
+
+{% if theme.sentiment %}
+<div class="stats-grid fade-in">
+  <div class="stat-card">
+    <div class="stat-value">{{ theme.size }}</div>
+    <div class="stat-label">Utterances</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.0f" | format(theme.sentiment.positive_pct * 100) }}%</div>
+    <div class="stat-label">Positive sentiment</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.0f" | format(theme.sentiment.negative_pct * 100) }}%</div>
+    <div class="stat-label">Negative sentiment</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.2f" | format(theme.sentiment.mean) }}</div>
+    <div class="stat-label">Mean sentiment</div>
+  </div>
+</div>
+{% endif %}
+
+<div class="dual-section fade-in">
+  <div>
+    <h3 style="margin-top:0;">What's Working</h3>
+    <p>{{ theme.whats_working }}</p>
+  </div>
+  <div>
+    <h3 style="margin-top:0;">Areas for Improvement</h3>
+    <p>{{ theme.areas_for_improvement }}</p>
+  </div>
+</div>
+
+<h2>Program Distribution</h2>
+<div class="stats-grid fade-in">
+  {% for program, count in theme.program_distribution.items() %}
+  <div class="stat-card">
+    <div class="stat-value">{{ count }}</div>
+    <div class="stat-label">{{ program }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+{% if theme.sentiment and theme.sentiment.by_program %}
+<h3>Cross-Program Sentiment</h3>
+<p>How emotional tone on this theme varies across programs. Differences may reflect program-specific experiences or simply the direction each conversation took.</p>
+<div class="stats-grid fade-in">
+  {% for program, data in theme.sentiment.by_program.items() %}
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.2f" | format(data.mean) }}</div>
+    <div class="stat-label">{{ program }} (n={{ data.count }})</div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<h2>In Their Words</h2>
+<p>Curated quotes that illustrate the range of perspectives on this theme.</p>
+{% if theme.curated_quotes %}
+{% for q in theme.curated_quotes[:3] %}
+<div class="pull-quote fade-in" style="font-size: 1.0625rem;">
+  "{{ q.text }}"
+  <span class="attribution">{{ q.program }}{% if q.note %} · {{ q.note }}{% endif %}</span>
+</div>
+{% endfor %}
+{% if theme.curated_quotes | length > 3 %}
+<button class="quote-toggle-btn" data-target="more-quotes-{{ theme.id }}" data-label="Show {{ theme.curated_quotes | length - 3 }} more quotes">Show {{ theme.curated_quotes | length - 3 }} more quotes</button>
+<div class="quote-toggle-content" id="more-quotes-{{ theme.id }}">
+  {% for q in theme.curated_quotes[3:] %}
+  <div class="pull-quote" style="font-size: 1rem;">
+    "{{ q.text }}"
+    <span class="attribution">{{ q.program }}{% if q.note %} · {{ q.note }}{% endif %}</span>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+{% endif %}
+
+{% if theme.discussion_question %}
+<div class="callout fade-in">
+  <div class="callout-label">Discussion question for the task force</div>
+  <p style="margin-top: 8px; font-size: 1.0625rem; color: var(--text);">{{ theme.discussion_question }}</p>
+</div>
+{% endif %}
+{% endblock %}

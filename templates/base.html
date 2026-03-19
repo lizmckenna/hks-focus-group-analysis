@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}  | HKS Focus Group Analysis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ static_prefix }}css/style.css">
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+  <nav>
+    <div class="nav-inner">
+      <a href="{{ root }}index.html" class="nav-logo">
+        HKS Focus Group Analysis
+      </a>
+      <ul class="nav-links">
+        <li><a href="{{ root }}index.html">Overview</a></li>
+        <li><a href="{{ root }}themes/index.html">Themes</a></li>
+        <li><a href="{{ root }}programs/index.html">Programs</a></li>
+        <li><a href="{{ root }}sentiment.html">Sentiment</a></li>
+        <li><a href="{{ root }}action-items.html">Action Items</a></li>
+        <li><a href="{{ root }}methodology.html">Methodology</a></li>
+      </ul>
+      <button class="theme-toggle">dark</button>
+    </div>
+  </nav>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+    <div class="container">
+      Harvard Kennedy School  | Focus Group Analysis  | {{ year }}
+    </div>
+  </footer>
+
+  <script src="{{ static_prefix }}js/main.js"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

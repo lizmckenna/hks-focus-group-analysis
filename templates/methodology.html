@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-header">
+  <h1>Methodology</h1>
+  <p class="subtitle">Data collection, analytical approaches, limitations, and caveats</p>
+</div>
+
+<div class="method-section fade-in">
+  <h2 style="border: none; padding: 0; margin-top: 0;">Purpose & Scope</h2>
+  <p>As part of HKS's vision and strategy initiative, the academic dean's office commissioned a series of student focus groups to gather structured input on the teaching and learning environment. The guiding frame was <strong>professionalism</strong>, understood broadly as the behaviors, expectations, and norms that foster a collaborative learning environment and prepare students for professional life. This definition applies bidirectionally: to students' own conduct and preparation, and to faculty teaching practices, engagement, and accountability.</p>
+  <p>The focus groups were designed to surface student perspectives on classroom culture, academic rigor, the quality of teaching and feedback, and what they believe would strengthen their educational experience. This report analyzes those conversations using both qualitative review and computational methods.</p>
+</div>
+
+<div class="method-section fade-in">
+  <h2 style="border: none; padding: 0;">Data Collection</h2>
+
+  <h3>Sample</h3>
+  <p>Five focus groups were conducted in February 2025 with HKS students, one per degree program: MPP1 (n=10), MPP2 (n=10), MCMPA (n=6), MPA/ID (n=8), and joint/dual degree (n=5). Sessions lasted approximately one hour each and were audio-recorded and transcribed with participant consent.</p>
+
+  <h3>Selection Process</h3>
+  <p>Participants were randomly selected and invited, not self-selected volunteers. As the moderator noted in session: <em>"It was a random assignment selection, so we weren't going only for the volunteers."</em> This was a deliberate design choice: <em>"It's really important to the people commissioning this that it wasn't just sort of the volunteer self-selectors."</em></p>
+
+  <div class="placeholder">
+    PLACEHOLDER: Report the number of students invited versus the number who accepted versus the number who attended, per program. Liz to confirm.
+  </div>
+
+  <h3>Moderation</h3>
+  <p>Sessions were moderated by Maria and Lori from the SLATE team. Structured scenarios were used as discussion prompts (vignettes about cold calling, assignment feedback, course variability, and teamwork) to elicit concrete reactions rather than abstract opinions. Not all scenarios were used in all groups.</p>
+
+  <h3>Deidentification</h3>
+  <p>All transcripts were deidentified prior to analysis. Participant names are replaced with <code>[NAME]</code> placeholders. Specific course names and professor names have been removed. No identifying information appears in this report.</p>
+</div>
+
+<div class="method-section fade-in">
+  <h2 style="border: none; padding: 0;">Analytical Approaches</h2>
+
+  <h3>Qualitative Review (Primary)</h3>
+  <p>The primary analysis was a close qualitative reading of all five transcripts. A parallel manual review by a colleague identified key themes, notable quotes, and cross-program patterns. This human-in-the-loop analysis produced the initial thematic structure: professionalism, rigor, and teaching quality as overarching categories, with sub-themes like cold calling, participation/class size interaction, feedback timing, and curriculum structure.</p>
+
+  <h3>Computational Validation</h3>
+  <p>To validate and extend the qualitative findings, student utterances were encoded using sentence-transformers (<code>all-MiniLM-L6-v2</code>; Reimers &amp; Gurevych, 2019) to produce dense vector representations capturing semantic meaning. These embeddings were reduced to lower dimensions via UMAP (McInnes et al., 2018) and clustered using HDBSCAN (Campello et al., 2013), following the general approach of BERTopic (Grootendorst, 2022). This produced data-driven topic clusters without requiring pre-specified categories.</p>
+  <p>The computational clustering identified 17 groups that showed strong convergence with the qualitative themes. Three clusters were excluded as non-substantive (introductions, conversational filler, exercise logistics). The remaining 14 were consolidated into 10 themes based on content overlap with the qualitative analysis. Latent Dirichlet Allocation (LDA; Blei et al., 2003) and Non-negative Matrix Factorization (NMF; Lee &amp; Seung, 1999) were also run as additional cross-validation.</p>
+
+  <h3>Sentiment Analysis</h3>
+  <p>VADER (Valence Aware Dictionary and sEntiment Reasoner; Hutto &amp; Gilbert, 2014) was applied to each student turn. VADER was designed for social media text and handles conversational language, including slang, capitalisation, and punctuation-based emphasis. Scores range from &minus;1 (most negative) to +1 (most positive).</p>
+  <p><strong>Calibration note:</strong> VADER was trained on social media data, not academic discourse. Scores are used for <em>relative</em> comparisons and for surfacing emotionally charged quotes. They should never be treated as absolute measurements of student satisfaction. Every sentiment chart in this report makes actual quotes accessible on hover.</p>
+
+  <h3>Keyword &amp; Co-occurrence Analysis</h3>
+  <p>TF-IDF was used to identify distinctive vocabulary per program. spaCy noun phrase extraction identified recurring multi-word expressions. Theme co-occurrence was computed over sliding windows of conversation, revealing which themes tend to arise together.</p>
+</div>
+
+<div class="method-section fade-in">
+  <h2 style="border: none; padding: 0;">Limitations</h2>
+
+  <h3>Small N</h3>
+  <p>One focus group per program means these are <strong>exploratory observations from specific conversations</strong>, not generalizable claims about program-wide student opinion. A finding that appears in the MPP1 session but not the MCMPA session does not mean MPP1 students care about it more. It means that topic came up in that particular conversation with those particular people.</p>
+
+  <h3>Selection Bias</h3>
+  <p>While participants were randomly invited, attendance was voluntary. Students who chose to attend may differ systematically from those who did not (perhaps more engaged, more dissatisfied, or simply more available that day).</p>
+
+  <h3>Group Dynamics</h3>
+  <p>Focus group data reflects group conversations, not private opinions. Social desirability, anchoring (first speakers setting the tone), and conformity pressure all shape what gets said. A view that goes unvoiced is not the same as a view that doesn't exist. Several groups showed strong opinion leadership from one or two participants, particularly the joint-degree group, where two HBS students set a comparative frame that shaped subsequent discussion.</p>
+
+  <h3>Moderator Influence</h3>
+  <p>The moderator's questions, probes, and scenario selections shaped each conversation. Topics that received more moderator attention may appear more prominent in the data simply because they were discussed longer. Not all groups received the same scenarios.</p>
+
+  <h3>Temporal Context</h3>
+  <p>All sessions occurred in early February 2025, at the beginning of spring semester. Student perspectives may differ at other points in the academic year, particularly after final exams, after receiving grades, or near graduation.</p>
+
+  <h3>Bidirectional Framing</h3>
+  <p>The focus groups asked about professionalism in both directions (student conduct and faculty practice). Students were generally more forthcoming about faculty and institutional shortcomings than about peer behavior, which is typical of focus group dynamics. This may create an impression that students are more critical of faculty than of themselves.</p>
+</div>
+
+<div class="method-section fade-in">
+  <h2 style="border: none; padding: 0;">Technical Details</h2>
+
+  <h3>Text Processing</h3>
+  <p>Raw Zoom transcription fragments (sentence-level, approximately 4,750 lines across 5 files) were consolidated into full speaker turns before analysis. Consecutive utterances from the same speaker were merged, producing 546 student turns totaling approximately 32,000 words. Moderator turns were separated and excluded from thematic analysis. spaCy (<code>en_core_web_sm</code>) was used for noun phrase extraction and lemmatization.</p>
+
+  <h3>Clustering Parameters</h3>
+  <p>UMAP: 15 neighbors, cosine metric, min_dist=0.1 for visualization (0.0 for clustering). HDBSCAN: min_cluster_size=8, min_samples=3, EOM selection method. Topic models: 12 topics each for LDA and NMF. Turns shorter than 5 words were excluded from clustering (retained in sentiment analysis).</p>
+
+  <h3>Theme Curation</h3>
+  <p>The 17 initial clusters were reviewed by reading all representative quotes and central utterances per cluster. Three clusters were excluded as non-substantive. The remaining 14 were consolidated into 10 themes based on content overlap. Labels, descriptions, "What's Working" and "Areas for Improvement" sections, and curated quotes were assigned through qualitative review informed by the colleague's parallel manual analysis of the same transcripts.</p>
+
+  <h3>Visualization</h3>
+  <p>All interactive visualizations built with Plotly. Word clouds generated with matplotlib. Site encrypted with StatiCrypt (AES-256) for secure sharing.</p>
+</div>
+
+<div class="method-section fade-in">
+  <h2 style="border: none; padding: 0;">References</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li style="padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.875rem; color: var(--text-secondary);">
+      Blei, D. M., Ng, A. Y., &amp; Jordan, M. I. (2003). Latent Dirichlet Allocation. <em>Journal of Machine Learning Research</em>, 3, 993&ndash;1022.
+    </li>
+    <li style="padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.875rem; color: var(--text-secondary);">
+      Campello, R. J. G. B., Moulavi, D., &amp; Sander, J. (2013). Density-based clustering based on hierarchical density estimates. <em>PAKDD 2013</em>.
+    </li>
+    <li style="padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.875rem; color: var(--text-secondary);">
+      Grootendorst, M. (2022). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. <em>arXiv:2203.05794</em>.
+    </li>
+    <li style="padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.875rem; color: var(--text-secondary);">
+      Hutto, C. J., &amp; Gilbert, E. (2014). VADER: A parsimonious rule-based model for sentiment analysis of social media text. <em>ICWSM</em>.
+    </li>
+    <li style="padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.875rem; color: var(--text-secondary);">
+      McInnes, L., Healy, J., &amp; Melville, J. (2018). UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction. <em>arXiv:1802.03426</em>.
+    </li>
+    <li style="padding: 8px 0; font-size: 0.875rem; color: var(--text-secondary);">
+      Reimers, N., &amp; Gurevych, I. (2019). Sentence-BERT: Sentence embeddings using Siamese BERT-networks. <em>EMNLP-IJCNLP 2019</em>.
+    </li>
+  </ul>
+</div>
+{% endblock %}

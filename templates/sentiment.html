@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-header">
+  <h1>Emotional Landscape</h1>
+  <p class="subtitle">Sentiment analysis across all focus groups</p>
+</div>
+
+<p>Sentiment scores are tools for finding interesting quotes and mapping emotional terrain, not for reducing experience to numbers. Every chart below shows actual quotes on hover. Scores range from -1 (most negative) to +1 (most positive). A score around 0.5 typically indicates warm, appreciative language; a score near -0.5 indicates frustration or criticism. See <a href="methodology.html">Methodology</a> for calibration notes on VADER.</p>
+
+<div class="stats-grid fade-in">
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.0f" | format(pct_positive * 100) }}%</div>
+    <div class="stat-label">Positive turns</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.0f" | format(pct_neutral * 100) }}%</div>
+    <div class="stat-label">Neutral turns</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.0f" | format(pct_negative * 100) }}%</div>
+    <div class="stat-label">Negative turns</div>
+  </div>
+</div>
+
+<h2>Sentiment Arcs</h2>
+<p>Each chart tracks the emotional trajectory through a focus group session. The line shows a rolling average; individual dots are single utterances. Hover over any dot to see the actual quote and its sentiment score. Look for sharp dips (moments of frustration or critique) and peaks (moments of enthusiasm or agreement). For example, most sessions start neutral-to-positive during introductions, then shift as substantive topics emerge.</p>
+<div class="chart-container fade-in">
+  {{ arcs_html | safe }}
+</div>
+
+<h2>Sentiment by Theme</h2>
+<p>These violin plots show the full emotional range within each theme. The width shows how many utterances have that sentiment level; the box shows the middle 50%; the line shows the mean. Wider violins mean more diversity of feeling about that topic.</p>
+<div class="chart-container fade-in">
+  {{ violin_html | safe }}
+</div>
+
+<h2>Most Emotionally Charged Quotes</h2>
+<p>These are the quotes where sentiment analysis detected the strongest positive or negative signal. Note that VADER (the sentiment tool) was trained on social media text, so conversational markers like "I love" or "terrible" drive scores more than academic criticism. Use these as starting points for exploration, not as rankings.</p>
+
+<h3 style="color: #059669;">Positive</h3>
+<div class="quote-gallery fade-in">
+  {% for q in top_positive[:8] %}
+  <div class="quote-card">
+    <div class="quote-text">"{{ q.text }}"</div>
+    <div class="quote-meta">{{ q.program }} · {{ q.speaker }} <span class="sentiment-badge" style="color: #059669; border-color: #059669;">{{ "%.2f" | format(q.sentiment) }}</span></div>
+  </div>
+  {% endfor %}
+</div>
+
+<h3 style="color: #dc2626;">Negative</h3>
+<div class="quote-gallery fade-in">
+  {% for q in top_negative[:8] %}
+  <div class="quote-card">
+    <div class="quote-text">"{{ q.text }}"</div>
+    <div class="quote-meta">{{ q.program }} · {{ q.speaker }} <span class="sentiment-badge" style="color: #dc2626; border-color: #dc2626;">{{ "%.2f" | format(q.sentiment) }}</span></div>
+  </div>
+  {% endfor %}
+</div>
+
+<h2>Cross-Program Sentiment</h2>
+<div class="stats-grid fade-in">
+  {% for program, data in program_sentiment.items() %}
+  <div class="stat-card">
+    <div class="stat-value">{{ "%.2f" | format(data.mean) }}</div>
+    <div class="stat-label">{{ program }} (n={{ data.count }})</div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

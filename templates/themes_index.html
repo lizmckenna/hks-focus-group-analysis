@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="page-header">
+  <h1>Themes</h1>
+  <p class="subtitle">{{ n_themes }} themes identified through qualitative review, validated with computational clustering</p>
+</div>
+
+<p>Themes were first identified through close reading of all five transcripts, then validated computationally by encoding student utterances as semantic vectors, clustering them by meaning, and checking alignment. See <a href="{{ root }}methodology.html">Methodology</a> for details.</p>
+
+<h2>Theme Co-occurrence Network</h2>
+<p>This network shows how themes relate to each other in conversation. Node size reflects how many utterances fall under each theme (larger nodes were discussed more). Lines connecting nodes show themes that came up in proximity within the same sessions. Thicker lines mean those themes appeared together more often. For example, the large core curriculum node connects to multiple other themes because curriculum structure came up alongside discussions of rigor, class size, and teaching quality.</p>
+<div class="chart-container fade-in">
+  {{ network_html | safe }}
+</div>
+
+<h2>All Themes</h2>
+{% for tid, theme in themes_sorted %}
+<div class="theme-card fade-in">
+  <h3><a href="{{ tid }}.html">{{ theme.label }}</a></h3>
+  <div class="theme-meta">
+    {{ theme.size }} utterances
+  </div>
+  <p>{{ theme.description }}</p>
+  {% if theme.curated_quotes %}
+  <div class="pull-quote" style="font-size: 1rem;">
+    "{{ theme.curated_quotes[0].text }}"
+    <span class="attribution">{{ theme.curated_quotes[0].program }} participant{% if theme.curated_quotes[0].note %} · {{ theme.curated_quotes[0].note }}{% endif %}</span>
+  </div>
+  {% endif %}
+  <div style="margin-top: 8px;">
+    <span style="font-size: 0.6875rem; color: var(--text-tertiary); font-family: var(--mono);">UTTERANCES BY PROGRAM:</span>
+    {% for program, count in theme.program_distribution.items() %}
+    <span class="program-label">{{ program }} {{ count }}</span>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
+
+{% if low_frequency_items %}
+<h2>Low Frequency, Potentially High Significance</h2>
+<p>Comments that appeared only a few times but potentially carry outsized implications for policy and practice.</p>
+{% for item in low_frequency_items %}
+<div class="callout fade-in">
+  <div class="callout-label">Low frequency · Potentially high significance</div>
+  <div class="pull-quote" style="margin-top: 12px; font-size: 1rem;">
+    "{{ item.quotes[0].text }}"
+    <span class="attribution">{{ item.quotes[0].program }} participant</span>
+  </div>
+  {% if item.quotes | length > 1 %}
+  <button class="quote-toggle-btn" data-target="lowfreq-{{ loop.index }}" data-label="Show {{ item.quotes | length - 1 }} related quotes">Show {{ item.quotes | length - 1 }} related quotes</button>
+  <div class="quote-toggle-content" id="lowfreq-{{ loop.index }}">
+    {% for q in item.quotes[1:] %}
+    <div class="pull-quote" style="font-size: 0.9375rem;">
+      "{{ q.text }}"
+      <span class="attribution">{{ q.program }}{% if q.note %} · {{ q.note }}{% endif %}</span>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+  <p><strong>Why it potentially matters:</strong> {{ item.why }}</p>
+  <p><strong>Discussion question:</strong> {{ item.discussion_question }}</p>
+</div>
+{% endfor %}
+{% endif %}
+{% endblock %}
