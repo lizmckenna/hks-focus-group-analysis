@@ -1,0 +1,1788 @@
+{
+  "0": {
+    "label": "Voting & Decision Exercises",
+    "most_positive": [
+      {
+        "text": "And one more thing, which I find very refreshing. We are very encouraging of women, of diversity. So like [NAME] also knows that if women are running here for any representative, we are extremely happy in encouraging each other. So she won the election.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.962
+      },
+      {
+        "text": "system of tracking them okay all right thank you one more um I really I really can't think of the one but I think there should be better if there's like a workshop between the",
+        "program": "MPP2",
+        "speaker": "Speaker 9",
+        "sentiment": 0.852
+      },
+      {
+        "text": "Those are two really good big ideas. I have like two small ideas, I feel like.",
+        "program": "MPP2",
+        "speaker": "Speaker 5",
+        "sentiment": 0.802
+      },
+      {
+        "text": "But maybe it can also be in the form of like spring one, spring two. It also allows us to experience more. Yeah.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.757
+      },
+      {
+        "text": "Concerning. It wouldn't categorize as bad or good, but it's just like some things that we're observing.",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.729
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "But I do think that it's important to note the disjointedness because that can be bad.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": -0.55
+      },
+      {
+        "text": "Yeah, and there is a very positive aspect of that, but there is also some negative aspects of that.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": -0.46
+      },
+      {
+        "text": "I'll second diversity as well, but another thing, maybe sometimes it was kind of ambitious. I don't say we were not seeing the reality, but it's kind of theoretical, or sometimes it's far from the real things going on in the US That's why the part of the world is so kind of obnoxious.",
+        "program": "MPP2",
+        "speaker": "Speaker 7",
+        "sentiment": -0.147
+      },
+      {
+        "text": "Well, I don't think it's like the culture.",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": -0.003
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "And one more thing, which I find very refreshing. We are very encouraging of women, of diversity. So like [NAME] also knows that if women are running here for any representative, we are extremely happy in encouraging each other. So she won the election.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.962
+      },
+      {
+        "text": "system of tracking them okay all right thank you one more um I really I really can't think of the one but I think there should be better if there's like a workshop between the",
+        "program": "MPP2",
+        "speaker": "Speaker 9",
+        "sentiment": 0.852
+      },
+      {
+        "text": "Those are two really good big ideas. I have like two small ideas, I feel like.",
+        "program": "MPP2",
+        "speaker": "Speaker 5",
+        "sentiment": 0.802
+      },
+      {
+        "text": "But maybe it can also be in the form of like spring one, spring two. It also allows us to experience more. Yeah.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.757
+      },
+      {
+        "text": "Concerning. It wouldn't categorize as bad or good, but it's just like some things that we're observing.",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.729
+      },
+      {
+        "text": "Okay. I would say they're different from each other, both in terms of the type of engagement, sometimes also the quality.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.599
+      },
+      {
+        "text": "I think it was a brilliant idea.",
+        "program": "MCMPA",
+        "speaker": "Speaker 3",
+        "sentiment": 0.586
+      },
+      {
+        "text": "Yeah, I don't mean politics. I mean, like, the culture is more.",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": 0.572
+      },
+      {
+        "text": "But I do think that it's important to note the disjointedness because that can be bad.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": -0.55
+      },
+      {
+        "text": "I just think that they're the pre-example of the years. Yeah, sure, put your ex.",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": 0.542
+      }
+    ]
+  },
+  "1": {
+    "label": "Classroom Rules & Phone Policies",
+    "most_positive": [
+      {
+        "text": "I'm taking a class with a notoriously frictional professor here who like calls people out whatever on all sorts of things you know whatever but they just yesterday people were clearly on their phone and they were like I know when you're on your phone I can see when you're on your phone but I don't think that anything happened of that like they didn't say [NAME] get off your phone like and maybe that'll happen later but there was sort of a dean just sort of whispered under his breath i feel like professors do enforce it and i kind of agree with the dean and that like professors all say no phones and they say it a lot but then i don't know what that enforcement mechanism is and i haven't seen it in practice",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": 0.966
+      },
+      {
+        "text": "I mean, I use my phone at HBS, but like the standard rule is like no technology. and so it feels I don't think that that's the rule they say it but they don't enforce it so like it is enforced because like the scribe or if the professor sees it the professor will like",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.939
+      },
+      {
+        "text": "Yeah, I think it's more of like the enforcement obviously is internalized by the culture and the social norms by the students at HBS, but like professors aren't afraid to enforce rules. And I feel like here they sometimes are afraid of the students, which is interesting.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.911
+      },
+      {
+        "text": "For sure. But I guess, like, to your point, if there's this rule that we shouldn't be on technology, like, is it a rule? Like, it's not a rule. You know what I mean?",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.895
+      },
+      {
+        "text": "Yeah, but that's the same school policy here. And professors actually, I'm saying this is someone who will use my phone, despite a professor saying, \"\"Don't use your phone.\"\" [NAME], I'm just being very honest. But I don't do it at HBS because I feel like it's a social norm.",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": 0.867
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "I had a phone somewhere. I lost the media.",
+        "program": "MIXED",
+        "speaker": "Speaker 9",
+        "sentiment": -0.318
+      },
+      {
+        "text": "And even then, we're not sure if it's last cases or the school call base.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": -0.241
+      },
+      {
+        "text": "I think that the spoken rules always sound super reasonable and illegitimate. But behind those external rules, there are also, how can I say that, implied rules that everyone understands what they are, but no one mentions them.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": -0.09
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "I'm taking a class with a notoriously frictional professor here who like calls people out whatever on all sorts of things you know whatever but they just yesterday people were clearly on their phone and they were like I know when you're on your phone I can see when you're on your phone but I don't think that anything happened of that like they didn't say [NAME] get off your phone like and maybe that'll happen later but there was sort of a dean just sort of whispered under his breath i feel like professors do enforce it and i kind of agree with the dean and that like professors all say no phones and they say it a lot but then i don't know what that enforcement mechanism is and i haven't seen it in practice",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": 0.966
+      },
+      {
+        "text": "I mean, I use my phone at HBS, but like the standard rule is like no technology. and so it feels I don't think that that's the rule they say it but they don't enforce it so like it is enforced because like the scribe or if the professor sees it the professor will like",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.939
+      },
+      {
+        "text": "Yeah, I think it's more of like the enforcement obviously is internalized by the culture and the social norms by the students at HBS, but like professors aren't afraid to enforce rules. And I feel like here they sometimes are afraid of the students, which is interesting.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.911
+      },
+      {
+        "text": "For sure. But I guess, like, to your point, if there's this rule that we shouldn't be on technology, like, is it a rule? Like, it's not a rule. You know what I mean?",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.895
+      },
+      {
+        "text": "Yeah, but that's the same school policy here. And professors actually, I'm saying this is someone who will use my phone, despite a professor saying, \"\"Don't use your phone.\"\" [NAME], I'm just being very honest. But I don't do it at HBS because I feel like it's a social norm.",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": 0.867
+      },
+      {
+        "text": "Yeah, yeah, yeah. Yeah, somebody has made a request of my cell phone page. Go for it.",
+        "program": "MCMPA",
+        "speaker": "Speaker 3",
+        "sentiment": 0.778
+      },
+      {
+        "text": "other class I think that probably describes it I have a question what does HBS do but I'm in a But I don't actually know if it's like a social norm that people aren't using their laptops or their phones or they are",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": 0.502
+      },
+      {
+        "text": "I think a couple of things. First, addressing people by their names. That I think is just a high bar for definition a lot of times, at least in my personal work experience, like my professional experience in the past. In intense environments, people are bound not to call you by your name.",
+        "program": "MPP1",
+        "speaker": "Speaker 11",
+        "sentiment": 0.421
+      },
+      {
+        "text": "I had a phone somewhere. I lost the media.",
+        "program": "MIXED",
+        "speaker": "Speaker 9",
+        "sentiment": -0.318
+      },
+      {
+        "text": "And even then, we're not sure if it's last cases or the school call base.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": -0.241
+      }
+    ]
+  },
+  "2": {
+    "label": "Students & Class",
+    "most_positive": [
+      {
+        "text": "And the vantage point is different, because the two times that's happened, it was actually something where it wasn't as helpful. It almost seemed like they were looking at it. I don't know. I'm not clear about why that is, but I felt like whatever the professor says, I'm willing to kind of, not that they're coming from on high, but more that they have an understanding of the class, the cohort, my dynamic, and it just felt different.",
+        "program": "MCMPA",
+        "speaker": "Speaker 6",
+        "sentiment": 0.891
+      },
+      {
+        "text": "They're, like, they, so it depends. Sometimes there's, like, so there's, for that class, there's an administrative person who's in charge of setting up office hours, rooms, and all of that, and changing schedules or whatever that students or TAs might need. And then there's another PhD person that also has some level of pedagogy training, but also economics training, so they can come in and bridge the gap between the professors who are super experts, and then students who are kind of figuring that out.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.834
+      },
+      {
+        "text": "Just a tiny bit about the officers. Yes. It has mostly been great. Just I think one or two classes, the professor has the same slot every week. And if I have class on that slot, I can never take it.",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.778
+      },
+      {
+        "text": "I mean, I think the professors are quite engaging as well. I think that oftentimes there's one or two people who take up student-wise the entirety of the class. In like 75 plus percent of my classes I've taken.",
+        "program": "MCMPA",
+        "speaker": "Speaker 8",
+        "sentiment": 0.762
+      },
+      {
+        "text": "I'm thinking like how do people behave in class as well, right?",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.557
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "I think maybe, correct me if I'm wrong, it's because you also mentioned the professionalism of the students and I guess how everyone like maybe behave in class.",
+        "program": "MPAID",
+        "speaker": "Speaker 9",
+        "sentiment": -0.153
+      },
+      {
+        "text": "All right. I haven't experienced this. I have experienced the first part of it, but not the latter. But I agree with him because there were many students who have complained about this, and it's typical of a few people, professors.",
+        "program": "MCMPA",
+        "speaker": "Speaker 4",
+        "sentiment": -0.077
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "And the vantage point is different, because the two times that's happened, it was actually something where it wasn't as helpful. It almost seemed like they were looking at it. I don't know. I'm not clear about why that is, but I felt like whatever the professor says, I'm willing to kind of, not that they're coming from on high, but more that they have an understanding of the class, the cohort, my dynamic, and it just felt different.",
+        "program": "MCMPA",
+        "speaker": "Speaker 6",
+        "sentiment": 0.891
+      },
+      {
+        "text": "They're, like, they, so it depends. Sometimes there's, like, so there's, for that class, there's an administrative person who's in charge of setting up office hours, rooms, and all of that, and changing schedules or whatever that students or TAs might need. And then there's another PhD person that also has some level of pedagogy training, but also economics training, so they can come in and bridge the gap between the professors who are super experts, and then students who are kind of figuring that out.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.834
+      },
+      {
+        "text": "Just a tiny bit about the officers. Yes. It has mostly been great. Just I think one or two classes, the professor has the same slot every week. And if I have class on that slot, I can never take it.",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.778
+      },
+      {
+        "text": "I mean, I think the professors are quite engaging as well. I think that oftentimes there's one or two people who take up student-wise the entirety of the class. In like 75 plus percent of my classes I've taken.",
+        "program": "MCMPA",
+        "speaker": "Speaker 8",
+        "sentiment": 0.762
+      },
+      {
+        "text": "I'm thinking like how do people behave in class as well, right?",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.557
+      },
+      {
+        "text": "Okay. The professors dominant or the students? Students. Specific students, yeah.",
+        "program": "MCMPA",
+        "speaker": "Speaker 6",
+        "sentiment": 0.477
+      },
+      {
+        "text": "at the end of the day it's all about professors leadership that makes that class good",
+        "program": "MPP2",
+        "speaker": "Speaker 9",
+        "sentiment": 0.44
+      },
+      {
+        "text": "Okay. Competitive. And it depends on professor.",
+        "program": "MPP1",
+        "speaker": "Speaker 9",
+        "sentiment": 0.382
+      },
+      {
+        "text": "Yeah, not uniform. Not uniform.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.296
+      },
+      {
+        "text": "Oh, okay. I mean, just in classroom?",
+        "program": "MPP1",
+        "speaker": "Speaker 10",
+        "sentiment": 0.226
+      }
+    ]
+  },
+  "3": {
+    "label": "Introductions & Background",
+    "most_positive": [
+      {
+        "text": "Okay. My name's [NAME]. My hometown is [NAME], [NAME].",
+        "program": "MIXED",
+        "speaker": "Speaker 7",
+        "sentiment": 0.226
+      }
+    ],
+    "most_negative": [],
+    "most_intense": [
+      {
+        "text": "Okay. My name's [NAME]. My hometown is [NAME], [NAME].",
+        "program": "MIXED",
+        "speaker": "Speaker 7",
+        "sentiment": 0.226
+      },
+      {
+        "text": "#NAME? I'm [NAME], I'm from [NAME] and southern [NAME].",
+        "program": "MPP1",
+        "speaker": "Speaker 6",
+        "sentiment": 0.0
+      },
+      {
+        "text": "My name's [NAME], I'm from [NAME], [NAME]. I'm [NAME], I'm from [NAME], [NAME] [NAME].",
+        "program": "MPP1",
+        "speaker": "Speaker 5",
+        "sentiment": 0.0
+      },
+      {
+        "text": "[NAME], I'm from [NAME] in [NAME]. I'm [NAME], I'm from [NAME], [NAME].",
+        "program": "MPP1",
+        "speaker": "Speaker 7",
+        "sentiment": 0.0
+      },
+      {
+        "text": "I'm [NAME], I'm from [NAME] [NAME]. I'm [NAME], I'm from [NAME].",
+        "program": "MPP1",
+        "speaker": "Speaker 9",
+        "sentiment": 0.0
+      },
+      {
+        "text": "I'm [NAME]-Yol, I'm from [NAME].",
+        "program": "MPP1",
+        "speaker": "Speaker 4",
+        "sentiment": 0.0
+      },
+      {
+        "text": "In parts of [NAME], in [NAME].",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.0
+      },
+      {
+        "text": "And what was your name again?",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.0
+      },
+      {
+        "text": "Hi, everyone. I'm [NAME]. I've been doing MPAID second year and I'm from  Colombia.",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.0
+      },
+      {
+        "text": "Hello, I'm [NAME]. I'm from  Colombia, and I'm also in MPAID 1.",
+        "program": "MPAID",
+        "speaker": "Speaker 7",
+        "sentiment": 0.0
+      }
+    ]
+  },
+  "4": {
+    "label": "Great & Time",
+    "most_positive": [
+      {
+        "text": "No, thank you so much. I appreciate you being here. Yeah, no, I personally really appreciate this opportunity, so I'm happy to not have anonymized feedback and come to follow-up meetings if you need, since I'm not on payroll. So I can be blind.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.938
+      },
+      {
+        "text": "Yeah, yeah, yeah. Yeah, yeah. Okay, great.",
+        "program": "MPP2",
+        "speaker": "Speaker 10",
+        "sentiment": 0.932
+      },
+      {
+        "text": "Yes. You can always use it. Thank you for promoting space. It's very helpful.",
+        "program": "MPAID",
+        "speaker": "Speaker 7",
+        "sentiment": 0.869
+      },
+      {
+        "text": "Oh, that's a great idea. Thank you. You please can. All right.",
+        "program": "MCMPA",
+        "speaker": "Speaker 3",
+        "sentiment": 0.836
+      },
+      {
+        "text": "Thank you so much. Thank you. You can take it. We'll take care of them.",
+        "program": "MCMPA",
+        "speaker": "Speaker 3",
+        "sentiment": 0.817
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "The cheat pen's breaking. A little bit. Sorry. Oh. They have the big guns. This one works all the way to do. All right.",
+        "program": "MPP1",
+        "speaker": "Speaker 2",
+        "sentiment": -0.463
+      },
+      {
+        "text": "But I know something else which starts with smog. Oh. But there's no.",
+        "program": "MCMPA",
+        "speaker": "Speaker 4",
+        "sentiment": -0.421
+      },
+      {
+        "text": "I'm sorry, I'm sorry. I just, I'm sorry.",
+        "program": "MPP1",
+        "speaker": "Speaker 12",
+        "sentiment": -0.226
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "No, thank you so much. I appreciate you being here. Yeah, no, I personally really appreciate this opportunity, so I'm happy to not have anonymized feedback and come to follow-up meetings if you need, since I'm not on payroll. So I can be blind.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.938
+      },
+      {
+        "text": "Yeah, yeah, yeah. Yeah, yeah. Okay, great.",
+        "program": "MPP2",
+        "speaker": "Speaker 10",
+        "sentiment": 0.932
+      },
+      {
+        "text": "Yes. You can always use it. Thank you for promoting space. It's very helpful.",
+        "program": "MPAID",
+        "speaker": "Speaker 7",
+        "sentiment": 0.869
+      },
+      {
+        "text": "Oh, that's a great idea. Thank you. You please can. All right.",
+        "program": "MCMPA",
+        "speaker": "Speaker 3",
+        "sentiment": 0.836
+      },
+      {
+        "text": "Thank you so much. Thank you. You can take it. We'll take care of them.",
+        "program": "MCMPA",
+        "speaker": "Speaker 3",
+        "sentiment": 0.817
+      },
+      {
+        "text": "The first time that we're doing this, yeah. Okay, wonderful.",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.796
+      },
+      {
+        "text": "Thank you. Yes. Oh, gosh. Thank you.",
+        "program": "MPAID",
+        "speaker": "Speaker 1",
+        "sentiment": 0.772
+      },
+      {
+        "text": "Yes. Thank you. Thank you.",
+        "program": "MPAID",
+        "speaker": "Speaker 1",
+        "sentiment": 0.772
+      },
+      {
+        "text": "Yeah, so, but, yeah, I know, thank you so much, and talk board in.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.768
+      },
+      {
+        "text": "Thank you. Thank you. Thank you.",
+        "program": "MCMPA",
+        "speaker": "Speaker 6",
+        "sentiment": 0.758
+      }
+    ]
+  },
+  "5": {
+    "label": "Cold Calling & Classroom Dynamics",
+    "most_positive": [
+      {
+        "text": "Okay, for discussing cold calls, so my take on this is a week ago, I dropped a class because of cold calling, The class that I was really, I was, I really waited for this class because, you know, the, the, both like the, the subject and the professor, like, both are like super interesting and, and compliment my experience. And, and I also want to hear, I wanted to hear from, from the professor and his experience and, and his views. And the concept, what I found out is that the concept of the class is only cold calling. the professor barely says anything, just cold calls. And basically, like, for the whole, you know, session, I only hear, like, students, part of them are either, like, super ready and talk about their, you know, experience, which is, as I said, it's amazing, but when it's, like, the whole class, it's, like, also, I think, like, a bit, you know, like, I don't know, it's not what I came for. And the other half is like people that are just, you know, mumbling or like feel like that they are like, you know, it's like an exam without, you know, us being told that it's an exam. And I don't hear anything from the professor itself. I just hear like, you know, like people, you know, targeted or like, you know, having to, you know, come to the, like, and stand in front of the class and do this. And I'll also connect this to what I said earlier. I understood that in this kind of setting, me, as someone whose [NAME] is not his first language, I just, I have no way to actually excel. Because maybe if it was in [NAME], so I could, you know, improvise or do something, you know, that will make me, you know, come out better. But I cannot do this, you know, this kind of, you know, environment. And it's also like tech-oriented class and I'm not a tech guy. So it's like, it's too much. So I think that cold calls are effective in the right context. If it's like part of a discussion and you want to add someone, you know, to the discussion based on a paper that he or she wrote. So, yeah, that's like essential. But if it's just for, you know, targeting someone, like, I don't know, like we're in like primary school and did you do your homework? I mean, I don't see the added value in that.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.998
+      },
+      {
+        "text": "I like that [NAME] [NAME] does that. I think that that's like, because it's playful. It's not like it removes all of the like anger and attitude from it. Whereas like if I walked in late to a classroom and someone looked at me and was like class starts at 9am, I would be like, yeah, well, the bus also is supposed to get here on time. Like, you know, there's genuine reason. I think tone and attitude matter here a lot. And I'm like reading both of these and it's ambiguous. you can't tell what tone they're taking in, but I can imagine that, like, yeah, I mean, if the student was like, I don't have time for this, like, sorry, your reading is, you know, not as important to me, like, if I was a professor, I would have attitude, too, and that student would probably deserve it, so that's, I think tone and attitude is sort of, like, my focus on this, and because [NAME] [NAME] takes a very, like, playful, like, no one cares, come just, like, talk for a minute, really, is what the prompt for that is, like, I think it's pretty open, but I've also never been subjected to that, So I don't want to speak on behalf of those who have. Not everyone has outspoken.",
+        "program": "MPP1",
+        "speaker": "Speaker 13",
+        "sentiment": 0.992
+      },
+      {
+        "text": "I would say, I'm trying to find the correct words that doesn't really look so bad on me. I think what I first got in mind is like, it's really, it's too academically minded. Like, it's too research-based. Or it's a very, sometimes I feel so sad because I want to read all of these things that the professor has in the syllabus, but I just don't have enough time. And I felt like it's such a waste. Like, I would have loved to be able to sit down and read it well and then you know participate in discussion in class and being able to have you know thought about it and i think this is something that i get to do in undergrad and i wish and i hope coming here i hope i can do that even more here but i didn't get so i think i think that comes in the end it comes maybe to the workload that that maybe maybe that that really is the root cause or or or maybe maybe just more better incentive to be prepared for the class including readings but in the end of the day I felt I felt I felt like I'm wasting a lot of the things that I could have been learning by not reading a lot and that's yeah but you're not reading as much as I suppose to",
+        "program": "MPAID",
+        "speaker": "Speaker 6",
+        "sentiment": 0.986
+      },
+      {
+        "text": "I feel like most of my process. The reason why I'm asking is because, ultimately, I guess it's like, what do we do with it? And I think [NAME] had something similar, where, like, if you would use your phone, like, you would get an email. And you would get an email by the TA or whatever. like it was like your classmate right being like you were on your phone today right and like says that you will get the ta at hbs oh i do uh stanford business school okay thank you so they will do something like that i know every class but they will call you out yeah so and they'll say like next time i will ask you to leave the class so then it really is like okay and i feel like yeah we shouldn't be children but ultimately i think we just are and that's just the nature of it that I myself see like I will get distracted on my phone or my laptop if I feel like there's just too many other people doing the same thing",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": 0.986
+      },
+      {
+        "text": "Anyone else comparative? I think compared to my undergrad, which is in India, there are two things that I probably want to highlight. One is, again, this again differs, varies across HKS courses, but then the readings that you give beforehand, for many of the classes, the readings make sense. And if you do the readings, you can engage a lot better. But there are also classes where readings have nothing to do with one start, in which case I think that just takes away from the experience. And the other thing was just double down the cold calling. We used to have cold calling in my undergrad as well. But that was never really a source of stress. Like, you're not, like, entirely consumed by what if I'm cold calling in front of the class and I have to, like, say something. As long as you're prepared, it'll be, like, really small things just to, like, tease out and, like, figure out the class. But sometimes, here, the cold calling just becomes a source of stress. And, again, it depends on how you cold call. Some classes are great. Some classes are not. But that becomes a comparison between each case classes.",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.971
+      }
+    ],
+    "most_negative": [],
+    "most_intense": [
+      {
+        "text": "Okay, for discussing cold calls, so my take on this is a week ago, I dropped a class because of cold calling, The class that I was really, I was, I really waited for this class because, you know, the, the, both like the, the subject and the professor, like, both are like super interesting and, and compliment my experience. And, and I also want to hear, I wanted to hear from, from the professor and his experience and, and his views. And the concept, what I found out is that the concept of the class is only cold calling. the professor barely says anything, just cold calls. And basically, like, for the whole, you know, session, I only hear, like, students, part of them are either, like, super ready and talk about their, you know, experience, which is, as I said, it's amazing, but when it's, like, the whole class, it's, like, also, I think, like, a bit, you know, like, I don't know, it's not what I came for. And the other half is like people that are just, you know, mumbling or like feel like that they are like, you know, it's like an exam without, you know, us being told that it's an exam. And I don't hear anything from the professor itself. I just hear like, you know, like people, you know, targeted or like, you know, having to, you know, come to the, like, and stand in front of the class and do this. And I'll also connect this to what I said earlier. I understood that in this kind of setting, me, as someone whose [NAME] is not his first language, I just, I have no way to actually excel. Because maybe if it was in [NAME], so I could, you know, improvise or do something, you know, that will make me, you know, come out better. But I cannot do this, you know, this kind of, you know, environment. And it's also like tech-oriented class and I'm not a tech guy. So it's like, it's too much. So I think that cold calls are effective in the right context. If it's like part of a discussion and you want to add someone, you know, to the discussion based on a paper that he or she wrote. So, yeah, that's like essential. But if it's just for, you know, targeting someone, like, I don't know, like we're in like primary school and did you do your homework? I mean, I don't see the added value in that.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.998
+      },
+      {
+        "text": "I like that [NAME] [NAME] does that. I think that that's like, because it's playful. It's not like it removes all of the like anger and attitude from it. Whereas like if I walked in late to a classroom and someone looked at me and was like class starts at 9am, I would be like, yeah, well, the bus also is supposed to get here on time. Like, you know, there's genuine reason. I think tone and attitude matter here a lot. And I'm like reading both of these and it's ambiguous. you can't tell what tone they're taking in, but I can imagine that, like, yeah, I mean, if the student was like, I don't have time for this, like, sorry, your reading is, you know, not as important to me, like, if I was a professor, I would have attitude, too, and that student would probably deserve it, so that's, I think tone and attitude is sort of, like, my focus on this, and because [NAME] [NAME] takes a very, like, playful, like, no one cares, come just, like, talk for a minute, really, is what the prompt for that is, like, I think it's pretty open, but I've also never been subjected to that, So I don't want to speak on behalf of those who have. Not everyone has outspoken.",
+        "program": "MPP1",
+        "speaker": "Speaker 13",
+        "sentiment": 0.992
+      },
+      {
+        "text": "I would say, I'm trying to find the correct words that doesn't really look so bad on me. I think what I first got in mind is like, it's really, it's too academically minded. Like, it's too research-based. Or it's a very, sometimes I feel so sad because I want to read all of these things that the professor has in the syllabus, but I just don't have enough time. And I felt like it's such a waste. Like, I would have loved to be able to sit down and read it well and then you know participate in discussion in class and being able to have you know thought about it and i think this is something that i get to do in undergrad and i wish and i hope coming here i hope i can do that even more here but i didn't get so i think i think that comes in the end it comes maybe to the workload that that maybe maybe that that really is the root cause or or or maybe maybe just more better incentive to be prepared for the class including readings but in the end of the day I felt I felt I felt like I'm wasting a lot of the things that I could have been learning by not reading a lot and that's yeah but you're not reading as much as I suppose to",
+        "program": "MPAID",
+        "speaker": "Speaker 6",
+        "sentiment": 0.986
+      },
+      {
+        "text": "I feel like most of my process. The reason why I'm asking is because, ultimately, I guess it's like, what do we do with it? And I think [NAME] had something similar, where, like, if you would use your phone, like, you would get an email. And you would get an email by the TA or whatever. like it was like your classmate right being like you were on your phone today right and like says that you will get the ta at hbs oh i do uh stanford business school okay thank you so they will do something like that i know every class but they will call you out yeah so and they'll say like next time i will ask you to leave the class so then it really is like okay and i feel like yeah we shouldn't be children but ultimately i think we just are and that's just the nature of it that I myself see like I will get distracted on my phone or my laptop if I feel like there's just too many other people doing the same thing",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": 0.986
+      },
+      {
+        "text": "Anyone else comparative? I think compared to my undergrad, which is in India, there are two things that I probably want to highlight. One is, again, this again differs, varies across HKS courses, but then the readings that you give beforehand, for many of the classes, the readings make sense. And if you do the readings, you can engage a lot better. But there are also classes where readings have nothing to do with one start, in which case I think that just takes away from the experience. And the other thing was just double down the cold calling. We used to have cold calling in my undergrad as well. But that was never really a source of stress. Like, you're not, like, entirely consumed by what if I'm cold calling in front of the class and I have to, like, say something. As long as you're prepared, it'll be, like, really small things just to, like, tease out and, like, figure out the class. But sometimes, here, the cold calling just becomes a source of stress. And, again, it depends on how you cold call. Some classes are great. Some classes are not. But that becomes a comparison between each case classes.",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.971
+      },
+      {
+        "text": "By the way, I'm not against cold calling. I just think that, you know, sometimes if it's like the whole essence of the classes. So, like, I don't know, maybe, you know, the syllabus should mention that, you know, every class is a simulation. And I like simulations. Like, I had the whole J-term doing [NAME]'s course. And it's like every day is a whole simulation. But I came prepared for this. I mean, I know that this is, you know, this is part of it. I mean, so if the whole class is cold calling, basically it's a simulation. And then it requires different kind of preparation. And also in real life, you know what you're like, if you're like working somewhere, like I also had, you know, I have this experience. Like I was prepared for, you know, I know what, you know, what is the context, as I said. So, anyway.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.97
+      },
+      {
+        "text": "I actually have a point, and I'd be curious to hear your thoughts, because, like, and this isn't in my personal experience, but based on some friends who I've talked to last semester, the concept of cold calling, it seems to be prevalent in\",\"some classes, not as much in others. or the way that you mark participation is by the way that you cold call or respond to cold calls. And I think that's what leads to some people just sort of like, vomiting what it is that they want to say. I personally think cold calling is like an outdated and like a lazy pedagogical tool because I think it only tests the surface of the things that you've actually interacted with. It doesn't allow the full transformational learning to happen. But I am very curious and like your responses either to cold calling or like if there's other things structurally that are causing some of these things or tangents in class. It could be anyone.",
+        "program": "MCMPA",
+        "speaker": "Speaker 5",
+        "sentiment": 0.97
+      },
+      {
+        "text": "where uh last semester where the professor was warm culling excuse me I'm even thinking about no she was warm culling and uh you know there were and it was on reading and it'd be in the beginning of the class and it seemed to have like it created a little bit of tension I think at the outset and I kind of became playful with it like oh I wonder you know um but I think to shame I don't think this was her intention but I think what you're describing sounds like it's for shaming and trying to get other people to not want to be in that position so they'll be motivated to do the reading I don't think that's a necessarily productive way of doing things um but uh yeah as far as my own this idea of warm calling I could sit with and I think in the end when I was cold called it was based on my experience or something that I think in this case that she thought I could offer not where it was like oh did you do the reading and trying to embarrass somebody or me whether or not I did or whatever, that wasn't the intention.",
+        "program": "MCMPA",
+        "speaker": "Speaker 6",
+        "sentiment": 0.913
+      },
+      {
+        "text": "Yeah, I also have a totally agree with the codecalling thing. I think codecalling, like in my undergrad, we actually don't have a lot of codecalling. So because the class size is really like, there are so many people in the class. And so right here, I really like the codecalling stuff. I think one thing is really important is sometimes people are complaining about cold calling because there will be a lot of pressure. I mean, pressure on the cold calling and sometimes especially like presenting something like something in front of the cold class. And also, I think the professor or the audience is expected the people who is doing the code calling to generate insightful and really comprehensive stuff in front of the class. So if I don't know how to say about the class material, I will feel very like ashamed or I will feel very anxious about that. So I think that's something maybe people are, a lot of people are complaining about cold calling.",
+        "program": "MPP2",
+        "speaker": "Speaker 10",
+        "sentiment": 0.897
+      },
+      {
+        "text": "Other classes here? Yeah, there were cold calls but they were less they were like as a part of like I don't know as I said part of like it wasn't like you know like I don't know how to say",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.889
+      }
+    ]
+  },
+  "6": {
+    "label": "Teaching Quality & Classroom Experience",
+    "most_positive": [
+      {
+        "text": "I would differ from this because last semester we had a class with a very busy professor. Both [NAME] and I, we attended, but they were very considerate and kind. And if we had a point to ask, we could always ask them before the class or after the class. And they always made sure that they stayed back for even 10 minutes after class. So my experience with my professors here has been deeply inspiring. And I believe that when they were in class, no matter whatever priorities they had, they treated me, their students, as their top priority. And this is exceptional in the sense that in my previous college where I studied, although there were only two students in the class, tutorial, I was at [NAME], [NAME]. But the challenge in the tutorial system is when you engage with the students from other cultures and other ideas and schools of thoughts, you tend to learn more from them. And I totally agree with [NAME]'s point that you learn more outside the classroom than inside the classroom. So here, because we have big cohort, the experiences are so diverse and so rich. We always learn from each other. So to me, I would rate HKS as the best college I've ever attended. Much better than [NAME]. Of course, like I love [NAME] deeply. Yeah, but to rate it like I would rate HHS above and that is solely because of two reasons, my peers. No matter how busy they are, anyone, even if they have a job and TA ship, something else, I haven't seen a single peer, if I would pull them just listen to me for two minutes, they'd be like, yeah. Or like if I'm hurrying up like it happened with me and [NAME] that we never got an opportunity for a coffee chat, But if we are walking in the corridor, it's always a hug. With her, yeah.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.998
+      },
+      {
+        "text": "of it here? Yes. So I would say it's also by the nature of the course maybe or but let me compare similar things. So for example, a lot of MBA courses are case-based and some of my education courses are also case-based. Some of them are more theoretical, but some are case-based. So I think about that was that while you have a case and you just say something, I mean in the beginning people will have good points, but ultimately you exhaust most of your points. And then we have people kind of repeating or just rehashing it in a different way just to get some marks here for it. I don't see that here in this classroom. I think maybe that's also just because the kind of topics that we have our cases on when people speak, I see that they also come, like they try to knit in their own maybe personal experiences into the case because the topics we read up are so much like from the grassroots or from the ground, a lot of like development related issues. So people bring in their own perspectives, their own like prior experiences, their readings, and also what they, what analysis they have of the reading. So I think in that way it's different, that I find the insights more valuable here. So that's a good thing. On the other hand, just like the same extension, like some of the classes where I mentioned are more theoretical. So that is something which I find that when it's a very long, just one-way communication, personally, I also find it difficult to just focus if it's just a one-way theory. And in those cases, I feel it would have been nicer to have the class a little more discussion-based. So it goes both ways. Like some classes where I find this lack because in my MBA classes, like almost every class was very highly engaging. Yes, there were these instances, of course, where the participation, I felt, was not great by some people. But I think it was really engaging, all the classes, given that it was not very theoretical of them. And we had these opportunities to even present in the class, do formal presentations, or even just do some papers, just some reading. So I think in those things, I find it a little less in education classrooms. So these were my pros and cons.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.994
+      },
+      {
+        "text": "Yeah, something similar happened to me, but I think what helped in that moment, and I think would be great in this, is teachers who struggle with this should encourage their teaching team more, like rely a little bit more on their expertise and like at the moment of choosing who's going to be in their teaching team, like acknowledging that this is going to be a possible situation for them to handle, and like choose people with the skills to like, like have criteria that it's good enough that a CA can understand and like pass it to the other student because it's physically impossible, as you said, for a teacher to be in each of their students' process. So you have three CAs, one TF in almost every class. So rely on them and like let them build confidence with the students so they can like go to them if you don't have the time to develop.",
+        "program": "MPAID",
+        "speaker": "Speaker 7",
+        "sentiment": 0.994
+      },
+      {
+        "text": "So I have a master's for just as well. So I did my MBA from India. So again, it would be a bit of an unfair comparison because an MBA degree operates a bit differently. but one positive is that so class participation has been like a key component in my MBA classes as well and here in my HKS classes as well I do think the good thing is that I think the class participation here has a lot more substance because when there is a lot of weightage to participation which is in some of the MBA classes you have people just participating for the sake of it but here when I see my fellow classmates participating I think there's a lot of value to what anybody says. So I think that's where I find education better in this way.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.974
+      },
+      {
+        "text": "and compared to my first master, which I did economics back in Korea, I was quite surprised by the support by the teaching team. So in my previous master's, if there is anyone who falls behind academically, all the blame goes to the student. Whereas here, if anyone falls behind, then the teacher team is there just to support these students. I think that's one positive that I found from this program. And another difference that I found was that here it values more relationship among the student and the relationship between the professor and the student. in my previous masters, they don't really care about who are in the class. The only people that they care about are the people who taught the whole class, but the rest of them seems to be just be there, but they don't really seem to care that much. So these are the positive side of HKS, and for the negatives, I think I somehow echo [NAME]. So I felt there's been less, how can I say, professional guidance from professors. What I mean by this is that now I'm also writing my second thesis, but compared to my previous one, it's very hard for us to find our own supervisors first, and it's very hard to make our own office hours with them because maybe professors have a lot of involvement with other students. And the nature of the program itself is less analytical compared to what I did before. Well, of course, my previous degree in my previous master's focused more on the mathematical side of economics. So I think this is something I think should have made some improvement, I guess.",
+        "program": "MPAID",
+        "speaker": "Speaker 10",
+        "sentiment": 0.97
+      }
+    ],
+    "most_negative": [],
+    "most_intense": [
+      {
+        "text": "I would differ from this because last semester we had a class with a very busy professor. Both [NAME] and I, we attended, but they were very considerate and kind. And if we had a point to ask, we could always ask them before the class or after the class. And they always made sure that they stayed back for even 10 minutes after class. So my experience with my professors here has been deeply inspiring. And I believe that when they were in class, no matter whatever priorities they had, they treated me, their students, as their top priority. And this is exceptional in the sense that in my previous college where I studied, although there were only two students in the class, tutorial, I was at [NAME], [NAME]. But the challenge in the tutorial system is when you engage with the students from other cultures and other ideas and schools of thoughts, you tend to learn more from them. And I totally agree with [NAME]'s point that you learn more outside the classroom than inside the classroom. So here, because we have big cohort, the experiences are so diverse and so rich. We always learn from each other. So to me, I would rate HKS as the best college I've ever attended. Much better than [NAME]. Of course, like I love [NAME] deeply. Yeah, but to rate it like I would rate HHS above and that is solely because of two reasons, my peers. No matter how busy they are, anyone, even if they have a job and TA ship, something else, I haven't seen a single peer, if I would pull them just listen to me for two minutes, they'd be like, yeah. Or like if I'm hurrying up like it happened with me and [NAME] that we never got an opportunity for a coffee chat, But if we are walking in the corridor, it's always a hug. With her, yeah.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.998
+      },
+      {
+        "text": "of it here? Yes. So I would say it's also by the nature of the course maybe or but let me compare similar things. So for example, a lot of MBA courses are case-based and some of my education courses are also case-based. Some of them are more theoretical, but some are case-based. So I think about that was that while you have a case and you just say something, I mean in the beginning people will have good points, but ultimately you exhaust most of your points. And then we have people kind of repeating or just rehashing it in a different way just to get some marks here for it. I don't see that here in this classroom. I think maybe that's also just because the kind of topics that we have our cases on when people speak, I see that they also come, like they try to knit in their own maybe personal experiences into the case because the topics we read up are so much like from the grassroots or from the ground, a lot of like development related issues. So people bring in their own perspectives, their own like prior experiences, their readings, and also what they, what analysis they have of the reading. So I think in that way it's different, that I find the insights more valuable here. So that's a good thing. On the other hand, just like the same extension, like some of the classes where I mentioned are more theoretical. So that is something which I find that when it's a very long, just one-way communication, personally, I also find it difficult to just focus if it's just a one-way theory. And in those cases, I feel it would have been nicer to have the class a little more discussion-based. So it goes both ways. Like some classes where I find this lack because in my MBA classes, like almost every class was very highly engaging. Yes, there were these instances, of course, where the participation, I felt, was not great by some people. But I think it was really engaging, all the classes, given that it was not very theoretical of them. And we had these opportunities to even present in the class, do formal presentations, or even just do some papers, just some reading. So I think in those things, I find it a little less in education classrooms. So these were my pros and cons.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.994
+      },
+      {
+        "text": "Yeah, something similar happened to me, but I think what helped in that moment, and I think would be great in this, is teachers who struggle with this should encourage their teaching team more, like rely a little bit more on their expertise and like at the moment of choosing who's going to be in their teaching team, like acknowledging that this is going to be a possible situation for them to handle, and like choose people with the skills to like, like have criteria that it's good enough that a CA can understand and like pass it to the other student because it's physically impossible, as you said, for a teacher to be in each of their students' process. So you have three CAs, one TF in almost every class. So rely on them and like let them build confidence with the students so they can like go to them if you don't have the time to develop.",
+        "program": "MPAID",
+        "speaker": "Speaker 7",
+        "sentiment": 0.994
+      },
+      {
+        "text": "So I have a master's for just as well. So I did my MBA from India. So again, it would be a bit of an unfair comparison because an MBA degree operates a bit differently. but one positive is that so class participation has been like a key component in my MBA classes as well and here in my HKS classes as well I do think the good thing is that I think the class participation here has a lot more substance because when there is a lot of weightage to participation which is in some of the MBA classes you have people just participating for the sake of it but here when I see my fellow classmates participating I think there's a lot of value to what anybody says. So I think that's where I find education better in this way.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.974
+      },
+      {
+        "text": "and compared to my first master, which I did economics back in Korea, I was quite surprised by the support by the teaching team. So in my previous master's, if there is anyone who falls behind academically, all the blame goes to the student. Whereas here, if anyone falls behind, then the teacher team is there just to support these students. I think that's one positive that I found from this program. And another difference that I found was that here it values more relationship among the student and the relationship between the professor and the student. in my previous masters, they don't really care about who are in the class. The only people that they care about are the people who taught the whole class, but the rest of them seems to be just be there, but they don't really seem to care that much. So these are the positive side of HKS, and for the negatives, I think I somehow echo [NAME]. So I felt there's been less, how can I say, professional guidance from professors. What I mean by this is that now I'm also writing my second thesis, but compared to my previous one, it's very hard for us to find our own supervisors first, and it's very hard to make our own office hours with them because maybe professors have a lot of involvement with other students. And the nature of the program itself is less analytical compared to what I did before. Well, of course, my previous degree in my previous master's focused more on the mathematical side of economics. So I think this is something I think should have made some improvement, I guess.",
+        "program": "MPAID",
+        "speaker": "Speaker 10",
+        "sentiment": 0.97
+      },
+      {
+        "text": "How does HKS assess professors? Like, what are the incentives, I think, and what are the performance mechanisms? Because I can see instances where there are amazing professors, but probably there's competing priorities if I want to give, like, a benefit of the doubt. And there are sometimes probably professors who don't give feedback at all. And I don't know what classes you've had, but I've had friends who would tell me similar things. And so I don't know if it's either or, or if they're somehow tied together, you know, in terms of what's actually valued when you are a professor.",
+        "program": "MCMPA",
+        "speaker": "Speaker 5",
+        "sentiment": 0.956
+      },
+      {
+        "text": "I've been in lots of HKS classes where like the assessment has been like, you know, write 200 words every week on this thing. And, you know, then you're doing these random quizzes and you kind of feel like you're doing a scheduling activity almost. And then I think in some ways that's been quite disengaging from like actually dealing with any of the deep ideas. Whereas I felt like in this class, because we weren't asked to do as much random stuff on the side. It was sort of more be prepared with the case. you will be cold-called, and that kind of got me to engage in a more meaningful way, I would say.",
+        "program": "MPP2",
+        "speaker": "Speaker 8",
+        "sentiment": 0.951
+      },
+      {
+        "text": "Yeah, so I mean, when I'm in those classes, I understand more whether the self-selection aspect is also true that people don't want to speak. But I was also referring to more, like, broader HKS. Like, how these, like, forums or opportunities in class and also outside of the class.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.943
+      },
+      {
+        "text": "Yeah, so it kind of takes me some time to adjust to it. So the HKS way of teaching, a lot of discussion, a lot of participation. And then the office hour system, we don't have that. We didn't have that back then. So it's a new thing for me, and I find it very helpful as well. Because like, yeah, I do a lot of it. And then like, I also like.",
+        "program": "MPAID",
+        "speaker": "Speaker 5",
+        "sentiment": 0.937
+      },
+      {
+        "text": "Yeah, I would say that HKS classroom experience has sometimes been really, really good. I want to start there. In that my undergrad, we'd be in much bigger classes. People were sort of more disengaged. Maybe they didn't really want to be in some of those classes. So a lot of those things are better. I think I've taken one class at another school, which was HBS. And so I guess comparing that similar classroom size, one thing I would note was in some of, like compared to most of my HKS classes, the professors seemed more prepared at my HBS class with like a classroom plan, with like timing management, with like figuring out who they wanted to speak or needed to speak in that class. And I think also I generally felt there was less busy work and there was more deep work, which I don't know whether it was just that class because I don't have as many comparators at other places. But that was something that I definitely felt was quite different to HKS.",
+        "program": "MPP2",
+        "speaker": "Speaker 8",
+        "sentiment": 0.918
+      }
+    ]
+  },
+  "7": {
+    "label": "Faculty Accessibility & Office Hours",
+    "most_positive": [
+      {
+        "text": "think it's all about the expectations and I think if if you do signal ahead like I think it's fair to have that done by a class-by-class situation I think like clearly with this like the student was expecting and a lot of students expect like coaching feedback but I think a lot of professors like coaching just takes time and I do think that office hours is like it's fair to say like office hours is a better venue for coaching than just like writing up like a paragraph um so yeah I think I think with this one like I think we're all kind of going into it like there's a problem here and I think if there is a problem it's like expectation based",
+        "program": "MPP2",
+        "speaker": "Speaker 5",
+        "sentiment": 0.988
+      },
+      {
+        "text": "This is very minor, but I just think like consistent formatting for the office hours, because I have had a professor who used Calendly, and I didn't realize they updated every two weeks, since there was like no time available, it looked like on their calendar. And so I went on, and it looked like they had no time for the entire semester, and so I just never met with them, and then at the end of the semester mentioned it to them, and they were like, oh, well, I updated every two weeks, like I released my new office hours every two weeks. And I felt like that wasn't clearly explained, like, oh. Yeah, whereas other professors just wait in their offices at a set time and they're just there and it's open. And then other professors, you book. Like, I don't know if it needs to be standard or uniform, but just can it be communicated better to somewhere.",
+        "program": "MPP2",
+        "speaker": "Speaker 4",
+        "sentiment": 0.975
+      },
+      {
+        "text": "All good. I can be quick. I think accessibility towards students should be a core performance for teachers. I think it's unacceptable that there are some professors who are saying like, oh, I only have time for like one office hour, like one 10 minute office hour for my students and it's only the students and not accessible to the rest of anybody. Whereas there are other professors who have the exact same number of students and are very, very open about sharing their time. And I think that to me is a matter of prioritization of value.",
+        "program": "MCMPA",
+        "speaker": "Speaker 5",
+        "sentiment": 0.905
+      },
+      {
+        "text": "I think I may just like escape from like escape from the job for one day and just attend the office hour. I think that would be helpful.",
+        "program": "MPP2",
+        "speaker": "Speaker 10",
+        "sentiment": 0.848
+      },
+      {
+        "text": "Not fast, but so when I had that kind of issue, you know, I went to the professor and booked the office hour, so yeah, maybe I didn't send a lot of emails because I kind of knew they would be late.",
+        "program": "MPP2",
+        "speaker": "Speaker 7",
+        "sentiment": 0.586
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "Just very quickly, I know. I would be quite angry, actually, if I were getting this type of response. I'm not the type of person, obviously, I'm not the type of person who does this, who go back to the professor, like, I'm not that dedicated of a student, obviously. But if I were to be that motivated and getting this type of answer, I would be not happy. I would be very disappointed. Especially if I, especially going here, which is supposedly much better than my previous any academic training that I've had. I think another thing that is not acceptable is, I think it, sorry, what I said disappointing wasn't necessarily that the professor giving the extra detail over email. What would disappoint me is that it would take about three, four weeks for a student to get an office hour. I think it makes sense. A professor might not have enough time to do all this over email. But a student shouldn't wait three, four weeks for a time to 15 minutes with a professor.",
+        "program": "MPAID",
+        "speaker": "Speaker 6",
+        "sentiment": -0.893
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "think it's all about the expectations and I think if if you do signal ahead like I think it's fair to have that done by a class-by-class situation I think like clearly with this like the student was expecting and a lot of students expect like coaching feedback but I think a lot of professors like coaching just takes time and I do think that office hours is like it's fair to say like office hours is a better venue for coaching than just like writing up like a paragraph um so yeah I think I think with this one like I think we're all kind of going into it like there's a problem here and I think if there is a problem it's like expectation based",
+        "program": "MPP2",
+        "speaker": "Speaker 5",
+        "sentiment": 0.988
+      },
+      {
+        "text": "This is very minor, but I just think like consistent formatting for the office hours, because I have had a professor who used Calendly, and I didn't realize they updated every two weeks, since there was like no time available, it looked like on their calendar. And so I went on, and it looked like they had no time for the entire semester, and so I just never met with them, and then at the end of the semester mentioned it to them, and they were like, oh, well, I updated every two weeks, like I released my new office hours every two weeks. And I felt like that wasn't clearly explained, like, oh. Yeah, whereas other professors just wait in their offices at a set time and they're just there and it's open. And then other professors, you book. Like, I don't know if it needs to be standard or uniform, but just can it be communicated better to somewhere.",
+        "program": "MPP2",
+        "speaker": "Speaker 4",
+        "sentiment": 0.975
+      },
+      {
+        "text": "All good. I can be quick. I think accessibility towards students should be a core performance for teachers. I think it's unacceptable that there are some professors who are saying like, oh, I only have time for like one office hour, like one 10 minute office hour for my students and it's only the students and not accessible to the rest of anybody. Whereas there are other professors who have the exact same number of students and are very, very open about sharing their time. And I think that to me is a matter of prioritization of value.",
+        "program": "MCMPA",
+        "speaker": "Speaker 5",
+        "sentiment": 0.905
+      },
+      {
+        "text": "Just very quickly, I know. I would be quite angry, actually, if I were getting this type of response. I'm not the type of person, obviously, I'm not the type of person who does this, who go back to the professor, like, I'm not that dedicated of a student, obviously. But if I were to be that motivated and getting this type of answer, I would be not happy. I would be very disappointed. Especially if I, especially going here, which is supposedly much better than my previous any academic training that I've had. I think another thing that is not acceptable is, I think it, sorry, what I said disappointing wasn't necessarily that the professor giving the extra detail over email. What would disappoint me is that it would take about three, four weeks for a student to get an office hour. I think it makes sense. A professor might not have enough time to do all this over email. But a student shouldn't wait three, four weeks for a time to 15 minutes with a professor.",
+        "program": "MPAID",
+        "speaker": "Speaker 6",
+        "sentiment": -0.893
+      },
+      {
+        "text": "I think I may just like escape from like escape from the job for one day and just attend the office hour. I think that would be helpful.",
+        "program": "MPP2",
+        "speaker": "Speaker 10",
+        "sentiment": 0.848
+      },
+      {
+        "text": "Not fast, but so when I had that kind of issue, you know, I went to the professor and booked the office hour, so yeah, maybe I didn't send a lot of emails because I kind of knew they would be late.",
+        "program": "MPP2",
+        "speaker": "Speaker 7",
+        "sentiment": 0.586
+      },
+      {
+        "text": "And I also think that the office hours were suggested in week 5 or 6. If there were still time until the final assignment, the student could have also tried to get another one in a non-busy week or email the professor with the constraints. I think most professors are very understanding and responsive in these scenarios.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.414
+      },
+      {
+        "text": "So I think the office hour for the professor in general, they are open for everyone. even the student who doesn't take the professor's class can still apply for office hour. So I think he can probably differentiate the office hour for those who attend his class and those who doesn't attend his class. Then the people who attend his class could meet him maybe sooner.",
+        "program": "MPAID",
+        "speaker": "Speaker 10",
+        "sentiment": 0.0
+      },
+      {
+        "text": "Email the professor directly and ask if they have any other time available.",
+        "program": "MPP2",
+        "speaker": "Speaker 4",
+        "sentiment": 0.0
+      }
+    ]
+  },
+  "8": {
+    "label": "Class & Professor",
+    "most_positive": [
+      {
+        "text": "Yeah, I'm happy to take this one. Like, classes should start on time. Teachers should be ready like five to ten minutes before. and people should walk in. The norm should be that everyone is on time. The norm is that people aren't on their laptops in the back. Like, and maybe I sound like super old school on this, but like, I think less than 25% of the people that are on their computers in a [NAME] [NAME] class are actually taking notes. The most of them are doing some other thing, and it's just incredibly unprofessional. And that like acknowledgement that that's okay by the professors, I think just creates a dynamic that you don't want in the classroom. When I show up, I show up prepared, and I'm here for like 75 minutes to try and get a little bit better. Like, if you're not there for that reason, like, don't come. And the last thing that I would say, too, is that, like, if things are done on time, they should end on time. And one of the last points, at HBS, it's expected that you read no more than 20 pages for that class. The cases normally are like 10 pages. And then you can kind of glaze over the annexes. But you're going to be held account for reading those pages. The [NAME] [NAME], most classes, you're going to get like 50 or 60 pages of reading for one class. And you're going to be held to account for none of it. That needs to flip drastically. Like assign reasonable readings or say like summarize these in your AI chat box that you're using. But then hold them accountable for what they're supposed to do. because then the people that are doing that work and showing up at class, and then they get worse grades than the kids that they know didn't read a single thing. That just erodes all of the structure of how the educational call to social compact should be. I'll get off my soapbox. Yeah, that was great.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": 0.994
+      },
+      {
+        "text": "So it happened on several cases in the classroom, negotiation and PTT, and student admit she didn't read it. But as long as like professor, okay we are moving on, but professor controlling her facial expression and non-verbal cue, and I understand you in this case, but you have more days, and so as long as she or he doesn't show that kind of super disappointment, and can be much more partial, I think it's okay for these cases. And also, I want professors to not hold that person, like, gudge on the next things, something like that. And I experienced, for example, PDD, all those students, a student admit, like, she didn't read the thing. Later, like, classes, the professor was trying to ask more questions and make that student more active. So it shows me the kindness. So my way of learning is as long as it's in a kind and inclusive environment, I'm OK with my own learning. So that was my perspective. Thank you.",
+        "program": "MPP1",
+        "speaker": "Speaker 9",
+        "sentiment": 0.992
+      },
+      {
+        "text": "A version of that, which is less military, although I love it, I support it, is one of the classes I'm in this semester. I would say probably on the first day of class, it was on [NAME], whatever. second day of class um i would say probably 20 people came in late within the first 10 minutes it's like a 60 person class but like normally like hks everyone's coming in late all the time and for each person who came in late the professor said good morning welcome class starts at 9 a.m and then waited until they sat down and started yeah and that started here to do that yeah i was thinking about that yeah i was like i think and it basically everyone wanted to clearly curl up and",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": 0.987
+      },
+      {
+        "text": "I agree with [NAME]. No, please. I agree with [NAME] because it's not the responsibility of the professor. We are, if you're feeling particularly bad in a situation with a group, you should report it. But this is part of learning how to work with teams and learn that this will happen in reality, that not everyone will show up for the meeting, that everyone will not necessarily have the same level of commitment, but you either like focus on the goal and like the outcome to get it done, or you change teams, or like you do something, but I think it relies a lot in your responsibility. In life, there will always be free riders, and for me, it's the responsibility of the person that is in the team to be able to do something about it. Okay, thank you.",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.976
+      },
+      {
+        "text": "Yeah. I think I agree with what [NAME] said, but I also feel that there is a certain merit to holding people to a certain academic standard. So maybe calling out the person by using the word that's disappointing may not be the right thing to do. [NAME] that moment the professor could move on to the next participant and I believe everyone in the class would still understand that it is important. [NAME] the person who did not come to pay for whatsoever reason, it could be callousness or a genuine reason, the professor could schedule a one-on-one chat later on or CA could relay that feedback that this is something we should be careful about or stuff like that. I genuinely feel that we should all be collectively holding ourselves to a better preparation for class and thereby a better academic standard. So I agree there's a trade-off. I think on the one",
+        "program": "MPP1",
+        "speaker": "Speaker 11",
+        "sentiment": 0.974
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "It's as simple. Like the first day, and this is like a very effective thing, and it sounds like super military, but it is. Like on the first day of class, if someone walks in late, the teacher should look at that person and say, this is your warning, this is your shopping class. If you're going to take this class, you're going to be on time. The next class, someone walks in, the first person who walks in late should look at them and say, get out. You're late. I'm making an example of you, but this is the norm that's going to follow. I expect you to be on time because I'm on time. Leave. And I guarantee you, it will not happen again. And that one person will not participate for one day. That's all it takes. It's just establishing that if you cross this line, there's going to be a repercussion. The problem is that most lines at the [NAME] [NAME], when you cross them, there's no repercussions. So no one respects the line.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": -0.491
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "Yeah, I'm happy to take this one. Like, classes should start on time. Teachers should be ready like five to ten minutes before. and people should walk in. The norm should be that everyone is on time. The norm is that people aren't on their laptops in the back. Like, and maybe I sound like super old school on this, but like, I think less than 25% of the people that are on their computers in a [NAME] [NAME] class are actually taking notes. The most of them are doing some other thing, and it's just incredibly unprofessional. And that like acknowledgement that that's okay by the professors, I think just creates a dynamic that you don't want in the classroom. When I show up, I show up prepared, and I'm here for like 75 minutes to try and get a little bit better. Like, if you're not there for that reason, like, don't come. And the last thing that I would say, too, is that, like, if things are done on time, they should end on time. And one of the last points, at HBS, it's expected that you read no more than 20 pages for that class. The cases normally are like 10 pages. And then you can kind of glaze over the annexes. But you're going to be held account for reading those pages. The [NAME] [NAME], most classes, you're going to get like 50 or 60 pages of reading for one class. And you're going to be held to account for none of it. That needs to flip drastically. Like assign reasonable readings or say like summarize these in your AI chat box that you're using. But then hold them accountable for what they're supposed to do. because then the people that are doing that work and showing up at class, and then they get worse grades than the kids that they know didn't read a single thing. That just erodes all of the structure of how the educational call to social compact should be. I'll get off my soapbox. Yeah, that was great.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": 0.994
+      },
+      {
+        "text": "So it happened on several cases in the classroom, negotiation and PTT, and student admit she didn't read it. But as long as like professor, okay we are moving on, but professor controlling her facial expression and non-verbal cue, and I understand you in this case, but you have more days, and so as long as she or he doesn't show that kind of super disappointment, and can be much more partial, I think it's okay for these cases. And also, I want professors to not hold that person, like, gudge on the next things, something like that. And I experienced, for example, PDD, all those students, a student admit, like, she didn't read the thing. Later, like, classes, the professor was trying to ask more questions and make that student more active. So it shows me the kindness. So my way of learning is as long as it's in a kind and inclusive environment, I'm OK with my own learning. So that was my perspective. Thank you.",
+        "program": "MPP1",
+        "speaker": "Speaker 9",
+        "sentiment": 0.992
+      },
+      {
+        "text": "A version of that, which is less military, although I love it, I support it, is one of the classes I'm in this semester. I would say probably on the first day of class, it was on [NAME], whatever. second day of class um i would say probably 20 people came in late within the first 10 minutes it's like a 60 person class but like normally like hks everyone's coming in late all the time and for each person who came in late the professor said good morning welcome class starts at 9 a.m and then waited until they sat down and started yeah and that started here to do that yeah i was thinking about that yeah i was like i think and it basically everyone wanted to clearly curl up and",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": 0.987
+      },
+      {
+        "text": "I agree with [NAME]. No, please. I agree with [NAME] because it's not the responsibility of the professor. We are, if you're feeling particularly bad in a situation with a group, you should report it. But this is part of learning how to work with teams and learn that this will happen in reality, that not everyone will show up for the meeting, that everyone will not necessarily have the same level of commitment, but you either like focus on the goal and like the outcome to get it done, or you change teams, or like you do something, but I think it relies a lot in your responsibility. In life, there will always be free riders, and for me, it's the responsibility of the person that is in the team to be able to do something about it. Okay, thank you.",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.976
+      },
+      {
+        "text": "Yeah. I think I agree with what [NAME] said, but I also feel that there is a certain merit to holding people to a certain academic standard. So maybe calling out the person by using the word that's disappointing may not be the right thing to do. [NAME] that moment the professor could move on to the next participant and I believe everyone in the class would still understand that it is important. [NAME] the person who did not come to pay for whatsoever reason, it could be callousness or a genuine reason, the professor could schedule a one-on-one chat later on or CA could relay that feedback that this is something we should be careful about or stuff like that. I genuinely feel that we should all be collectively holding ourselves to a better preparation for class and thereby a better academic standard. So I agree there's a trade-off. I think on the one",
+        "program": "MPP1",
+        "speaker": "Speaker 11",
+        "sentiment": 0.974
+      },
+      {
+        "text": "died and then it never happened again yeah and so i feel like [NAME] is like if some professors want to do that they can i just i think those professors here wouldn't want to do that but i've seen like danny roderick do that i've seen limor daphne do that and it's awkward and it's awkward and then people feel better about like or people feel like i should actually come on time but also it doesn't like punish people who's like their train got delayed which is like why they're walking in late sometimes but like i think when the line is established to [NAME]'s point like early you won't",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.973
+      },
+      {
+        "text": "Yeah, I'd probably take a slightly different approach than [NAME] was. I think, so if you look at this case, it seems like he missed meetings, he was unprepared, but at the same time, he participated in discussions, he left detailed comments, and he volunteered to present. So even if in hindsight it's people drafted it, he gave feedback, and he presented, that is still a division of work that might not be equal, but it's within the realm of possible or slash fair. I also agree with [NAME], I think setting expectations initially is better, but I like the flexibility. I think there are a lot of leadership classes here which talk about how instead of taking the viewpoint of one person did this to the other four, a part of the leadership skill we're learning in the real world is that in teams there will be people who will slack, there will be people who will have challenging situations like a family situation, like a job interview. And it's a skill to learn within, which is how do you get everyone to participate, knowing different people's constraints. So I don't mind the situation, and I wouldn't like, for example, external impositions. I like that this is flexible. Personally, I'm not a fan of the peer evaluation. I think that there are different reasons why someone might like or dislike someone that can have nothing to do with their real participation",
+        "program": "MPP1",
+        "speaker": "Speaker 12",
+        "sentiment": 0.971
+      },
+      {
+        "text": "I'm a problem and I can tell you how it can work Okay But yeah even about this and I think about in general it's linked to your question and even about this case I think what's great is I think this situation has never happened I think professors are great about being gracious but at the same time enforcing norms. So I don't think professors like to publicly shame, like in this case. I think there's a way to ignore it in class, but you will often get an email checking in, hey, are you okay? Or is there anything we can do to support you? And then if it's not addressed, it always will come, you will get a low class participation rate. So there are consequences, but so far I think it's been dealt with, all of this has been dealt with really well.",
+        "program": "MPP1",
+        "speaker": "Speaker 12",
+        "sentiment": 0.966
+      },
+      {
+        "text": "like one person and they always say i'm really sorry yeah and it's like whether you stop class and kind of look and say welcome please don't be late again or they don't feel comfortable and would rather like send an email it's like actually saying you've crossed the line please don't do it again is that there's no, like to [NAME]' point, like there's no, like there is no consequence today. So it kind of doesn't make the rules like relevant.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.961
+      },
+      {
+        "text": "I also feel like in [NAME] and here, we're treated as adults and we're given a lot of autonomy to decide for ourselves. And in most projects, I've never been imposed a group. We get to choose our groups. And essentially, it's like a bet you make on another person, so you have to either trust them or if things don't work out the way you want, well, these situations happen in life all the time. So I think it's more of like we have the freedom to pick our groups and to work with whomever we want to work. So I don't think the professor has any responsibility here.",
+        "program": "MPAID",
+        "speaker": "Speaker 9",
+        "sentiment": 0.953
+      }
+    ]
+  },
+  "9": {
+    "label": "Professor Feedback & Grading Practices",
+    "most_positive": [
+      {
+        "text": "Sorry, can I just add to that? Yes. who are just really much better at the administrative side. And it's actually a really big quality difference, right? Because, like, for example, I was the TF for a class where the professor expected us to have the grades back by basically within a week. When we had exams, we would grade that evening and we would just stay through the night and finish the grading. And so everything was ready. there was like a very systematic process that I feel like that rules-based kind of system really helped all of us stay on track and so we could also block out our weeks to be like this is when we're grading this is when things need to be done by and I think we got a lot of positive feedback from the students about being like because I get feedback every week I feel like I know what's going on [NAME] was in this class so he knows and like yeah I think that really drove up a lot of satisfaction and made people feel like they were being respected because they were putting in the work and they could see we were putting in the work in response.",
+        "program": "MPP2",
+        "speaker": "Speaker 8",
+        "sentiment": 0.987
+      },
+      {
+        "text": "Can I make, if someone else wants to go, they can go. But I had like another tangential point about the time versus depth of feedback. Yes. I would just wonder, and that's just like an open question, if that is really a one-to-one trade-off. I can get a really detailed feedback like a week before my actual final submission but how useful would that be versus getting it slightly earlier so it gives me more time so I wouldn't trade off one is to trade this off one is to one but that's just like I would happy to",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.98
+      },
+      {
+        "text": "So I wonder because for like MPPs, having this strict sort of like feedback mechanism, you come back in like so much time makes sense. But because a lot of the classes are also taken by like some of the more like MCMPAs, like the slightly older I think an easier way to play or maybe like a transitional way to do this is to put it as part of course evaluation Just tell what your grading frequency is so that people will know what it is And then based on that you can make a decision so that it doesn't become a random gamble You at least have the information when you choose a class",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.974
+      },
+      {
+        "text": "should know every year what the same things are. I've had one professor who's like, the assignment that's coming up, the feedback from last year that I gave out was like this. So we're going to try and avoid those things. I think that is like really proactive of them to try and like, I think some professors kind of see giving feedback as like a specific job, I guess, rather than part of the broader learning cycle. And so thinking, like looking at it from that other side might be helpful as well.",
+        "program": "MPP2",
+        "speaker": "Speaker 8",
+        "sentiment": 0.966
+      },
+      {
+        "text": "A hundred percent. And I think that's key because a lot of times at HKS, like the TF or the CA or the review at the end for the final, it's like big picture. Like what have we done? And I'm like, wow, like if this had been given to me at the front end, it would have made everything come together more because it's, it's, it's literally sometimes the professor has been teaching it for so long and it's so set in their ways. and there isn't necessarily a forcing mechanism of pedagogical review by other professors. Because I think, I mean, at HBS, they have professors watch other professors teach. And it doesn't matter their tenure. Because, like, I think sometimes there can be good, like, critiques coming from, you know, professors and not in a way that's like, I'm stepping on your toes. But it's like they don't step back and see that it's confusing to everyone else, but the professor who's been teaching it for 25 years, because there is no kind of, here's the upfront intention. And I think part of the intentionality is also setting these norms and rules from the beginning and setting the petrographical style. I feel like at HBS, there's always professor, it's not every professor, but there will always be professors who write the agenda on the board at the start of class and like refer to it and it's just like i i have no idea what i'm walking into at most hks classes unless i know the professor themselves is like a very structured linear person how about",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.963
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "Yeah, and then we're expected to submit reviews of the professors before we even get our grades back at the end of the semester as well. I mean, again, this is just me, but I think that this is very typical. And I don't want to place the blame solely on students, but the fact is there's not 68 students that are emailing for detailed feedback. I never once emailed for detailed feedback, but I just never got my grades back. and then we're expected to submit these course critiques, and then if we don't submit them, we get punished by waiting an extra month to get our grades. I had two classes last semester that I didn't get a single grade back the entire semester. I got A's in both the classes, but how am I supposed to critique if I get no feedback? So I don't know. This just relates to kind of what I felt last semester.",
+        "program": "MCMPA",
+        "speaker": "Speaker 8",
+        "sentiment": -0.844
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "Sorry, can I just add to that? Yes. who are just really much better at the administrative side. And it's actually a really big quality difference, right? Because, like, for example, I was the TF for a class where the professor expected us to have the grades back by basically within a week. When we had exams, we would grade that evening and we would just stay through the night and finish the grading. And so everything was ready. there was like a very systematic process that I feel like that rules-based kind of system really helped all of us stay on track and so we could also block out our weeks to be like this is when we're grading this is when things need to be done by and I think we got a lot of positive feedback from the students about being like because I get feedback every week I feel like I know what's going on [NAME] was in this class so he knows and like yeah I think that really drove up a lot of satisfaction and made people feel like they were being respected because they were putting in the work and they could see we were putting in the work in response.",
+        "program": "MPP2",
+        "speaker": "Speaker 8",
+        "sentiment": 0.987
+      },
+      {
+        "text": "Can I make, if someone else wants to go, they can go. But I had like another tangential point about the time versus depth of feedback. Yes. I would just wonder, and that's just like an open question, if that is really a one-to-one trade-off. I can get a really detailed feedback like a week before my actual final submission but how useful would that be versus getting it slightly earlier so it gives me more time so I wouldn't trade off one is to trade this off one is to one but that's just like I would happy to",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.98
+      },
+      {
+        "text": "So I wonder because for like MPPs, having this strict sort of like feedback mechanism, you come back in like so much time makes sense. But because a lot of the classes are also taken by like some of the more like MCMPAs, like the slightly older I think an easier way to play or maybe like a transitional way to do this is to put it as part of course evaluation Just tell what your grading frequency is so that people will know what it is And then based on that you can make a decision so that it doesn't become a random gamble You at least have the information when you choose a class",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.974
+      },
+      {
+        "text": "should know every year what the same things are. I've had one professor who's like, the assignment that's coming up, the feedback from last year that I gave out was like this. So we're going to try and avoid those things. I think that is like really proactive of them to try and like, I think some professors kind of see giving feedback as like a specific job, I guess, rather than part of the broader learning cycle. And so thinking, like looking at it from that other side might be helpful as well.",
+        "program": "MPP2",
+        "speaker": "Speaker 8",
+        "sentiment": 0.966
+      },
+      {
+        "text": "A hundred percent. And I think that's key because a lot of times at HKS, like the TF or the CA or the review at the end for the final, it's like big picture. Like what have we done? And I'm like, wow, like if this had been given to me at the front end, it would have made everything come together more because it's, it's, it's literally sometimes the professor has been teaching it for so long and it's so set in their ways. and there isn't necessarily a forcing mechanism of pedagogical review by other professors. Because I think, I mean, at HBS, they have professors watch other professors teach. And it doesn't matter their tenure. Because, like, I think sometimes there can be good, like, critiques coming from, you know, professors and not in a way that's like, I'm stepping on your toes. But it's like they don't step back and see that it's confusing to everyone else, but the professor who's been teaching it for 25 years, because there is no kind of, here's the upfront intention. And I think part of the intentionality is also setting these norms and rules from the beginning and setting the petrographical style. I feel like at HBS, there's always professor, it's not every professor, but there will always be professors who write the agenda on the board at the start of class and like refer to it and it's just like i i have no idea what i'm walking into at most hks classes unless i know the professor themselves is like a very structured linear person how about",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.963
+      },
+      {
+        "text": "So when I read this, I think I can empathize with the professor to feel like it is virtually impossible to give detailed feedback to 68 students in such a short period of time. So I do give the professor some grace. But I do think that if the student is really committed to understanding what they did wrong, or like is really motivated and really wants to have, to just understand the areas that they could improve, the professor should really welcome that with reciprocity and take the time to just sit down and maybe write a long email, just detailing, or like provide detailed feedback on that paper. Because not every student is going to reach out and ask for proper feedback. so that it could be a one-on-one discussion. But I don't agree with how this ended, which is that the students could just not go to office hours. I think the professor could have just been understanding and provided detailed feedback. But I don't expect the professor to give detailed feedback to everybody first.",
+        "program": "MPAID",
+        "speaker": "Speaker 9",
+        "sentiment": 0.96
+      },
+      {
+        "text": "Yeah. Yeah. Well, I think if it's a CA plus the professor, that'd be great. more feedback. Yeah, but just to summarize where I agree, I think that I don't need can like feedback throughout the semester as well if I'm getting deep feedback every like fewer times. Like I'd prefer deeper feedback than",
+        "program": "MPP2",
+        "speaker": "Speaker 4",
+        "sentiment": 0.941
+      },
+      {
+        "text": "Yeah, so I had some similar things I was going to talk about in the rubric, because we have had both scenarios where, in one case, the professor personally gives a very detailed feedback, which I really admire, but the cost of it is time. Like, you don't get it soon enough. You get that as much time it would take him to create 70 papers, and the inverse of that is just no feedback, but the rubric is quite helpful. It's just underlining, okay, here you got, these are the 10 or 5 metrics, and you got this much for each of them. So that kind of helps.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.936
+      },
+      {
+        "text": "I think so, but I feel like if people are, like, if there are students that are working, like, the expectation should be that the feedback comes without additional, like, going to office hours. Like, if they're constrained, then they shouldn't be penalized for that, no? So maybe the feedback should have been like a little bit more, I don't know. Yeah, it's two sentences. Yeah, in the first place, like that's not a good expectation to have one of the professor level feedback.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.931
+      },
+      {
+        "text": "I just wanted to add, I think that there are professors who have gotten feedback returned quickly, but sometimes it's clear that their CAs or TFs are doing the gradings and not them, and that makes a huge difference in my interpretation of the grade. and my motivation to stay motivated in that class. And I think I have found it to be interesting that not all professors put the same amount of work and time into reviewing what we put into what they want us to do for them. So I've found that to be a point of frustration for me.",
+        "program": "MPP2",
+        "speaker": "Speaker 4",
+        "sentiment": 0.923
+      }
+    ]
+  },
+  "10": {
+    "label": "Professor Feedback & Grading Practices",
+    "most_positive": [
+      {
+        "text": "#NAME? But I think like they, yeah, I mean, maybe it's like that class, I don't know. But yeah, the structure is like-- - No, no, it's good to know. - Just like spot on, like we're expected to like, return it within like exactly a week, and then like exams are this day, and like all of that is clear, and I would much prefer that too, yeah.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.99
+      },
+      {
+        "text": "maybe isn't really like the like a well-backed way of thinking that like um maybe has like a little bit of, I don't know, it's not like completely opinion based thing because like obviously you can have difference of opinions, but more so like an accuracy based thing where I would just, I think, prefer if the professor was like, yeah, maybe not that, let's move on to a different thing instead of like teasing it out more. Okay.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.961
+      },
+      {
+        "text": "I was thinking about like in all the classes that I've taken I think a trend from my classes has been that some of the quantitative courses that I've taken I get like there I feel like there is a systematic like there's a timeline within which I receive a grade but I like I I feel like some of the more, I don't want to say qualitative classes, but like the non-quantitative classes, I feel like it's more, I don't know when I'm going to receive the grade.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.946
+      },
+      {
+        "text": "Do you think it should be open-ended or not? I feel like I'd like to know when we're going to receive a grade because for some of these classes, I think we're looking forward. Like, I know I'm looking forward to the grade, not because of anything else, but because I want to do better on the next assignment. Yes. So it would be helpful to receive it well in advance so that I can work accordingly for my next one.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.945
+      },
+      {
+        "text": "I mean, it's a course where like personal opinion also matters. so it's very difficult to guess how the professor is also grading and what's the program for that. But yeah, I have tons of examples. Yeah. I want to bore you with. Okay. Yeah. Alright. Did anyone have any comment on",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.874
+      }
+    ],
+    "most_negative": [],
+    "most_intense": [
+      {
+        "text": "#NAME? But I think like they, yeah, I mean, maybe it's like that class, I don't know. But yeah, the structure is like-- - No, no, it's good to know. - Just like spot on, like we're expected to like, return it within like exactly a week, and then like exams are this day, and like all of that is clear, and I would much prefer that too, yeah.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.99
+      },
+      {
+        "text": "maybe isn't really like the like a well-backed way of thinking that like um maybe has like a little bit of, I don't know, it's not like completely opinion based thing because like obviously you can have difference of opinions, but more so like an accuracy based thing where I would just, I think, prefer if the professor was like, yeah, maybe not that, let's move on to a different thing instead of like teasing it out more. Okay.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.961
+      },
+      {
+        "text": "I was thinking about like in all the classes that I've taken I think a trend from my classes has been that some of the quantitative courses that I've taken I get like there I feel like there is a systematic like there's a timeline within which I receive a grade but I like I I feel like some of the more, I don't want to say qualitative classes, but like the non-quantitative classes, I feel like it's more, I don't know when I'm going to receive the grade.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.946
+      },
+      {
+        "text": "Do you think it should be open-ended or not? I feel like I'd like to know when we're going to receive a grade because for some of these classes, I think we're looking forward. Like, I know I'm looking forward to the grade, not because of anything else, but because I want to do better on the next assignment. Yes. So it would be helpful to receive it well in advance so that I can work accordingly for my next one.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.945
+      },
+      {
+        "text": "I mean, it's a course where like personal opinion also matters. so it's very difficult to guess how the professor is also grading and what's the program for that. But yeah, I have tons of examples. Yeah. I want to bore you with. Okay. Yeah. Alright. Did anyone have any comment on",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.874
+      },
+      {
+        "text": "Okay. So one suggestion for the professor would be to just share a detailed rubric and a model answer. I think that's worked well in the courses that we've had them. And the other thing, I think most of the grading is done by teaching fellows in TAs anyway, at least in the MPAID. I don't think professors are individually grading assignments, so this would be, but as long as they've designed the rubric and as long as they've chosen the teaching team well, then that works. The TAs are usually more flexible with office hours as well and can work with the student to find a way.",
+        "program": "MPAID",
+        "speaker": "Speaker 4",
+        "sentiment": 0.865
+      },
+      {
+        "text": "What do you mean what would you do? This is an end right? Like the final memo assignment is the same grade. So like what would I do after receiving the final grade?",
+        "program": "MPP2",
+        "speaker": "Speaker 6",
+        "sentiment": 0.742
+      },
+      {
+        "text": "years? time like getting feedback from three people. So I was like, oh, they're evaluating in various dimensions. That's what I thought. So that my result is more objective.",
+        "program": "MPP2",
+        "speaker": "Speaker 9",
+        "sentiment": 0.644
+      },
+      {
+        "text": "Sorry, just a clarifying question. What do you mean, like, what the professors do in terms of the grade or in terms of... Because I think the end action here is everyone giving peer evaluation score to everyone, right?",
+        "program": "MPAID",
+        "speaker": "Speaker 6",
+        "sentiment": 0.557
+      },
+      {
+        "text": "The reason why I was asking was because I think in most of the group works, the professor never asked us to make any of these peer evaluations, So that's one question that I had. Oh, interesting.",
+        "program": "MPAID",
+        "speaker": "Speaker 10",
+        "sentiment": 0.402
+      }
+    ]
+  },
+  "11": {
+    "label": "Course Readings & Materials",
+    "most_positive": [
+      {
+        "text": "I would say just reduce the volume of, like, work. Not necessarily assignments, but just, like, the readings and stuff. I feel like I'm getting such a surface-level understanding of so much, and I'm not getting the time to go into depth on these, like, important policy issues. So it's just, like, volume of... Volume of reading?",
+        "program": "MPP1",
+        "speaker": "Speaker 5",
+        "sentiment": 0.946
+      },
+      {
+        "text": "I think that would also help professors put a limit on some of their readings. Because there are some professors where it's like 400 pages of readings for one class, and you're like, okay, well, what actually am I extracting from this, right? Like, it's the, yeah.",
+        "program": "MCMPA",
+        "speaker": "Speaker 5",
+        "sentiment": 0.925
+      },
+      {
+        "text": "Okay, so I'm saying that the entire reading, whatever you expect. The whole module, of course, like. Yes, even if it's divided into small chunks, but you keep it ready in the photocopy store. So we go there, we just check out, okay, this is my reading, okay.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.875
+      },
+      {
+        "text": "Go ahead. Because there are a lot of readings, it would be very helpful if before we are starting a course, we can get our course packets. That happens in HLS. That happens in HBS. ATS should do it. A lot of reading on the computer screen is, I mean, it's okay, we have to adapt, but having a bundle beforehand, even before the semester starts, they should be ready in a store. So students can look at the readings physically, understand that, okay, this is what I'm supposed to do. And when you have a physical copy sitting on your table, chances are you'll read it.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.852
+      },
+      {
+        "text": "So you have it as optional. What would help more is to have all the readings beforehand. Like the entire semester course, entire packet ready. I look at the reading, I decide if I want this course.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.791
+      }
+    ],
+    "most_negative": [],
+    "most_intense": [
+      {
+        "text": "I would say just reduce the volume of, like, work. Not necessarily assignments, but just, like, the readings and stuff. I feel like I'm getting such a surface-level understanding of so much, and I'm not getting the time to go into depth on these, like, important policy issues. So it's just, like, volume of... Volume of reading?",
+        "program": "MPP1",
+        "speaker": "Speaker 5",
+        "sentiment": 0.946
+      },
+      {
+        "text": "I think that would also help professors put a limit on some of their readings. Because there are some professors where it's like 400 pages of readings for one class, and you're like, okay, well, what actually am I extracting from this, right? Like, it's the, yeah.",
+        "program": "MCMPA",
+        "speaker": "Speaker 5",
+        "sentiment": 0.925
+      },
+      {
+        "text": "Okay, so I'm saying that the entire reading, whatever you expect. The whole module, of course, like. Yes, even if it's divided into small chunks, but you keep it ready in the photocopy store. So we go there, we just check out, okay, this is my reading, okay.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.875
+      },
+      {
+        "text": "Go ahead. Because there are a lot of readings, it would be very helpful if before we are starting a course, we can get our course packets. That happens in HLS. That happens in HBS. ATS should do it. A lot of reading on the computer screen is, I mean, it's okay, we have to adapt, but having a bundle beforehand, even before the semester starts, they should be ready in a store. So students can look at the readings physically, understand that, okay, this is what I'm supposed to do. And when you have a physical copy sitting on your table, chances are you'll read it.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.852
+      },
+      {
+        "text": "So you have it as optional. What would help more is to have all the readings beforehand. Like the entire semester course, entire packet ready. I look at the reading, I decide if I want this course.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.791
+      },
+      {
+        "text": "I think there should be a meeting for arranging volume of reading among professors. Okay. In last semester, one of my class gave me a reading of like 200 pages per week. It's like 200 pages for [NAME] and 200 pages for like [NAME]. It was like, whoa, it's madness. I'm an international student. I cannot follow the class. But if there were a meeting of professors that are allocating reading type. Coordination. Yeah, that's right. So coordination in the reading.",
+        "program": "MPP1",
+        "speaker": "Speaker 4",
+        "sentiment": 0.743
+      },
+      {
+        "text": "None of the components were created. So not just the final exam, but like throughout the semester.",
+        "program": "MPAID",
+        "speaker": "Speaker 4",
+        "sentiment": 0.579
+      },
+      {
+        "text": "No, I mean, it's a one that we have adapted, but last semester I had a course in HLS with a proper packet. It helped me. Physical.",
+        "program": "MCMPA",
+        "speaker": "Speaker 9",
+        "sentiment": 0.0
+      }
+    ]
+  },
+  "12": {
+    "label": "Class & School",
+    "most_positive": [
+      {
+        "text": "comparison I would make is from my undergrad like I said more intense and I think it's like just the environment and kind of the own like self-pressure around who you're around and things like that but I find um within the classroom it's a lot more like it's engaging but it's like less interactive like it's often like one person making one comment at a time versus like small group discussions or others like pair and share sort of activities like I just find it here it's like less yeah less interactive um and like the pedagogical approach is kind of like very similar class to class. Okay, [NAME].",
+        "program": "MPP1",
+        "speaker": "Speaker 5",
+        "sentiment": 0.993
+      },
+      {
+        "text": "so maybe that's why like we're a little bit more like less compared like a competitive more collaborative um yeah because like you never know when you're going to be like with someone on like some sort of team project um I would say compared to my undergrad too like people just kind of like do care because it's smaller maybe people care about how they present and you know from like how they dress to like how they talk in class like I feel like people are very for better for worse conscious that there's like a lot of eyes on them and that like people know you and like remember you so it could be a consequence of how big the classroom is um compared to like some of my other",
+        "program": "MPP2",
+        "speaker": "Speaker 5",
+        "sentiment": 0.992
+      },
+      {
+        "text": "Like tons of experience. And I don't know if nobody knows anybody's experience or like never, like certainly, I mean, I don't think I've, maybe I have one class where they asked everyone's background or something like that. But I mean, there's people in the room with 20, 30 years experience. I mean, of course, I appreciate the professors that worked with 11 different presidents and walking through their examples are awesome. That's amazing. But like, we're on a subject, somebody's raising their hand. Again, it's kind of like the same person who raises their hand every single class. And they're talking about their little specific niche. When we read 150 pages on this totally different topic, and we're not talking about that topic or engaging with people who actually have experience in that topic. It's just the same people over and over again regurgitating the same things.",
+        "program": "MCMPA",
+        "speaker": "Speaker 8",
+        "sentiment": 0.989
+      },
+      {
+        "text": "Sure. Well, I think I just maybe want to start by acknowledging that I think it's a very well-designed program that I think that it oftentimes exceeded my expectations in terms of rigor and also coherence in between the different classes. Maybe we'll talk more about things to improve, but I think that's something that I think it's important to, at least for me personally, I think I've been really impressed by the rigor. maybe too much at times where the pace has been difficult to manage I would say but intellectually if like the at least the first year and like especially now with like a bit more perspective like being a second semester first year student I'm really able to like you know, put the, kind of like see the bigger picture and the coherence of the overall program. So I would say, yeah, I'm not concerned about the rigor, I think, yeah.",
+        "program": "MPAID",
+        "speaker": "Speaker 9",
+        "sentiment": 0.988
+      },
+      {
+        "text": "Yeah. Echoing what everyone else has said, definitely very rigorous. And yeah, it's definitely very hard. Like for me, it's very, very hard. I've been out of school for a few years, and it's really, it was really difficult for me to catch up. What was I going to say? I think also I would also highlight the coherence of it. This part, at many points, I would be discussing things about something I learned in class, and I don't even remember which class. which is this is a very, again, new experience for me. Like, I've never experienced that before. I think that exemplifies how well integrated these courses are. And I think that's a really good sign. I would say, in addition to the actual academic syllabus and academic rigor, the professors are excellent. They are, for the most part, for the most part of the semester, For most of the professors, they are very well prepared. They know what they're, they teach really well. They manage the class really well, which is important. Manage the discussion well. And I think that adds into a very positive experience in the classroom.",
+        "program": "MPAID",
+        "speaker": "Speaker 6",
+        "sentiment": 0.985
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "I will come out of classrooms and there'll be at least 30 to 40% roughly where people are like, What was being discussed in the classroom was ridiculous. There's no way I could even say that in class. Or give my opinion in class. And these are not even, let's say, I mean, we don't know HKS as a liberal school. These are not even right-wing perspectives. These are like center-left perspectives. Where you just don't feel comfortable. And I think a lot of that expectation setting has to be done explicitly by the professor. The onus is on the professor to set the norms on day one. and to elicit diverse viewpoints. And I've been in a couple of classrooms which you learn really well. But most fail miserably.",
+        "program": "MPP1",
+        "speaker": "Speaker 12",
+        "sentiment": -0.895
+      },
+      {
+        "text": "Related to [NAME] or [NAME] mentioned, I feel, I'm feeling a peer pressure in this school, that you need to agree with the liberal values. Yeah, taking classes like racism, you need to agree with the DEI. DEI values or black history or what happened to black people like systemic racism against them. And I think just people just assuming that. Don't talk about it. Don't talk about the reason or rationale behind the DEI values, but they're just assuming it. So it's not easy for me to go against it. When I was in college, I graduated college in [NAME]. Even in a [NAME] history class, there's left-wing students and right-wing students, they fight each other against the interpretation of [NAME] modern history. But in here, there's, I feel, a high level of pressure.",
+        "program": "MPP1",
+        "speaker": "Speaker 4",
+        "sentiment": -0.719
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "comparison I would make is from my undergrad like I said more intense and I think it's like just the environment and kind of the own like self-pressure around who you're around and things like that but I find um within the classroom it's a lot more like it's engaging but it's like less interactive like it's often like one person making one comment at a time versus like small group discussions or others like pair and share sort of activities like I just find it here it's like less yeah less interactive um and like the pedagogical approach is kind of like very similar class to class. Okay, [NAME].",
+        "program": "MPP1",
+        "speaker": "Speaker 5",
+        "sentiment": 0.993
+      },
+      {
+        "text": "so maybe that's why like we're a little bit more like less compared like a competitive more collaborative um yeah because like you never know when you're going to be like with someone on like some sort of team project um I would say compared to my undergrad too like people just kind of like do care because it's smaller maybe people care about how they present and you know from like how they dress to like how they talk in class like I feel like people are very for better for worse conscious that there's like a lot of eyes on them and that like people know you and like remember you so it could be a consequence of how big the classroom is um compared to like some of my other",
+        "program": "MPP2",
+        "speaker": "Speaker 5",
+        "sentiment": 0.992
+      },
+      {
+        "text": "Like tons of experience. And I don't know if nobody knows anybody's experience or like never, like certainly, I mean, I don't think I've, maybe I have one class where they asked everyone's background or something like that. But I mean, there's people in the room with 20, 30 years experience. I mean, of course, I appreciate the professors that worked with 11 different presidents and walking through their examples are awesome. That's amazing. But like, we're on a subject, somebody's raising their hand. Again, it's kind of like the same person who raises their hand every single class. And they're talking about their little specific niche. When we read 150 pages on this totally different topic, and we're not talking about that topic or engaging with people who actually have experience in that topic. It's just the same people over and over again regurgitating the same things.",
+        "program": "MCMPA",
+        "speaker": "Speaker 8",
+        "sentiment": 0.989
+      },
+      {
+        "text": "Sure. Well, I think I just maybe want to start by acknowledging that I think it's a very well-designed program that I think that it oftentimes exceeded my expectations in terms of rigor and also coherence in between the different classes. Maybe we'll talk more about things to improve, but I think that's something that I think it's important to, at least for me personally, I think I've been really impressed by the rigor. maybe too much at times where the pace has been difficult to manage I would say but intellectually if like the at least the first year and like especially now with like a bit more perspective like being a second semester first year student I'm really able to like you know, put the, kind of like see the bigger picture and the coherence of the overall program. So I would say, yeah, I'm not concerned about the rigor, I think, yeah.",
+        "program": "MPAID",
+        "speaker": "Speaker 9",
+        "sentiment": 0.988
+      },
+      {
+        "text": "Yeah. Echoing what everyone else has said, definitely very rigorous. And yeah, it's definitely very hard. Like for me, it's very, very hard. I've been out of school for a few years, and it's really, it was really difficult for me to catch up. What was I going to say? I think also I would also highlight the coherence of it. This part, at many points, I would be discussing things about something I learned in class, and I don't even remember which class. which is this is a very, again, new experience for me. Like, I've never experienced that before. I think that exemplifies how well integrated these courses are. And I think that's a really good sign. I would say, in addition to the actual academic syllabus and academic rigor, the professors are excellent. They are, for the most part, for the most part of the semester, For most of the professors, they are very well prepared. They know what they're, they teach really well. They manage the class really well, which is important. Manage the discussion well. And I think that adds into a very positive experience in the classroom.",
+        "program": "MPAID",
+        "speaker": "Speaker 6",
+        "sentiment": 0.985
+      },
+      {
+        "text": "I would say one good difference is compared to my other programs so far. You learn much more from your fellow classmates. I would say a negative thing is the amount of homework that is, I mean, in one way, not very vigorous, but just time consuming, honestly. I mean, just to be quite clear, I mean, it's so funny, of course, just my point of view, but I think in most cases it's not rigorous, it just takes a lot of time. And I mean, I was raised to find systems where you don't do, basically where homework is assigned to a high school, not to a new university. It's more like you go to an academic institution, you learn on a high level, and then you write an accent, not heading to assignments. Like [NAME] said, that is rather long but not really challenging for a week.",
+        "program": "MPP1",
+        "speaker": "Speaker 7",
+        "sentiment": 0.967
+      },
+      {
+        "text": "Yeah, 100%. I love it. I'm somebody who learns better when I'm going through and experiencing things as opposed to just being lectured at or just being taught at. And so I find, with a few exceptions, most of the courses that I was in last semester has some kind of incorporation of activity or, like, tactile or whatever. So I can name off [NAME], [NAME], and also [NAME] O'[NAME], amazing, amazing professors, who, and especially [NAME], who really tried, and [NAME], actually, all of them are great. But they really, I think, took the pedagogy of what it means to learn and reflected on it. And you can see it in the way that they teach their classes. And it really is why it's engaging. It's why I feel like I'm genuinely learning something every class. Yeah. And I'd say there are a few profs who still do the old school lecture at you and whatever. But I think that's just the nature of them.",
+        "program": "MCMPA",
+        "speaker": "Speaker 5",
+        "sentiment": 0.958
+      },
+      {
+        "text": "Okay, I'm just going to answer, as I thought the question was at the beginning, like thinking overall about the program. Yeah. So I think it has been, as Joseph said, very rigorous, very academically difficult, especially at the beginning, since most of us are not used to studying at this level since a couple of years. But I think the program has done a great job handling that and the learning curve. They try to help us a lot with that. So I think it's a bit of a shock at the beginning, but then you get used to the academic rigorosity that the program has. And also, yeah, the professionalism. And they put a lot of thought into what we learn is interconnected between classes. So that's a rather new experience for me, which I didn't get back in my home country, that you only took a class and it focused only in the syllabus of that class. But here, I think all the teachers try to connect what you learn in one class into another one and try to make everything practical as you go through your entire degree. So I think that's very, very nice.",
+        "program": "MPAID",
+        "speaker": "Speaker 7",
+        "sentiment": 0.957
+      },
+      {
+        "text": "Yes, thank you very much. I have indeed had experience. I had a master's degree before coming here in Colombia. And one of the things that I think I can highlight most about this program is the motivation that the overall faculty has for you to work with your classmates. like to work in groups, like they encourage you to do most of the work in pairs, even if it is individual work, they encourage you to work as a group with a lot of people and I think that elsewhere, or at least what I've been before, is not to work with other people. I think that's like a key thing I have learned from here that's different from other other experiences that I've had before and also I would say that the teachers here or more ones more than others like encourage a lot of participation like dynamics in class to allow you to engage with the students not only like outside of the crowd but in the crowd room so I think That's one key element that I would have of the program. Again, not of every teacher, but most of them try to make participation a key element of the class. So those two things for you.",
+        "program": "MPAID",
+        "speaker": "Speaker 7",
+        "sentiment": 0.948
+      },
+      {
+        "text": "Yeah. So when I was referring to performative and I said in a good way, what I mean is that people aren't standing behind their knowledge or behind a PowerPoint or what you know and so it's a point I 100% agree and like any other I've been countless institutions and I've been saying this and starting here that there's the highest level of professionalism that I've seen in that in that way I feel like the people that I've been learning from are involved in the experience and they're invested in they're almost learning as they go also or they're so they're experts in their given fields but yet it's not presented in a way where they're standing on high or you know so I and I think the knowledge is kind of it's permeating the classroom rather than it being something that's you know said and sitting in the air and people aren't quite clear about what it is that they're learning and then they move on so I 100% agree I think it's been excellent. So I think MCFPAs have a very special",
+        "program": "MCMPA",
+        "speaker": "Speaker 6",
+        "sentiment": 0.947
+      }
+    ]
+  },
+  "13": {
+    "label": "Classroom Participation & Discussion",
+    "most_positive": [
+      {
+        "text": "every class usually and they're taking attendance or taking participation in the same way the scribe is doing that at HBS. And so, yeah, I've also gotten emails, like your point about professors, like they'll be like, I saw you on technology or like, I'm not sure if you were, and it kind of scares you. But I think to add to this broader professionalism discussion, one thing that I think is really important that I see it as a actual problem here is like having students know like what's a valuable comment or question in class versus what is like actually not valuable or potentially detracting. No, I think it's like you shouldn't ask, like you shouldn't ask a question or make a comment to like take up space in a classroom. And I really think like MCMPAs do that. And it's like, we're not trying to like have a discussion about your experience in the middle of a lecture. So it's like time and place. And so I think like, because people feel like participation is a grade that they have to speak but if you don't actually have something to add or say or push the conversation correctly like I think there is a way to like make it clear what is like a better question versus not and I've seen professors here handle questions that are like oh like that is like not something we're going into right now but sometimes like professors just go with it and it's like or just like let them go on and on and like I've seen professors at HBS kind of like",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.997
+      },
+      {
+        "text": "i i generally agree and and and share your perspective in that sense but i also feel that sometimes um i'm trying to to find like a more like that sometimes uh class discussions are like simulacra of discussion rather than actual discussion. Sometimes it's because there are, and maybe also it's a cultural thing, maybe not maybe, I think it's a cultural thing, setting too many rules to the extent for discussion, to the extent that it's clear what you're not allowed to say and what you're allowed to say. or I just found myself sometimes in the class subjects are so interesting, but I mean, probably, you know, there are a lot of, you know, reasons for that, and I don't put the blame, all the blame on the professors or the institution or the students. It's like a mix. But sometimes we like, there is a super interesting subject, But no one says anything, you know, substantial. And for me also, as an MCMP, and I know what kind of students I share the class with, with amazing experiences, I always found myself throughout this year having the most interesting discussions outside class, rather in class.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.994
+      },
+      {
+        "text": "OK, thank you. Yes, Triti. Yes. I wish there was a more transparent process on understanding where we are on participation. I think some classes do a great job of like emailing people saying you like it's okay if you don't raise your hands the next few classes which I really appreciate I think everyone deserves like time enough time to talk in class okay yeah so it would be nice to have a transparent",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.983
+      },
+      {
+        "text": "I wanted to decrease the participation scores percentages because like from some [NAME] students, especially from [NAME] students, although they have amazing ideas, they just didn't get used to speaking up a lot. And then, although they do extremely great on other stuff, but their score is lower than mine, I always, like, shamelessly, mindlessly speak, which seems really unfair. And also, like, sometimes the participation score is, for some classes, 40%. And it makes me, like, just push myself, like, perform instead of, like, asking what is important for me. So that seems like, if it's, like, really, like, lower for me, it's beneficial.",
+        "program": "MPP1",
+        "speaker": "Speaker 9",
+        "sentiment": 0.975
+      },
+      {
+        "text": "I don't know. Or make the whole class for that day a discussion, like how it is at HBS, where everyone knows, like I have one comment, we know what we're talking about, because when it is an 80 or 90 person class with a 50 participation requirement or part of the grade but it's a lecture and so then people are like I have to get in because it's like well it's actually a lecture so they shouldn't have 50 participation or if it is a large discussion class the professor should facilitate a discussion and not take up space themselves because again like it comes back to this disjointed and what is the expectation because I think like students will be more professional if the norms and expectations are communicated up front by professors, even on a daily change, if the classroom structure is like today, the discussion versus a lecture. So just like be conscious of how you ask or make comments, given that.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.967
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "People are taking all the classes with R and using [NAME] or ChatGPT to write the code right now anyways. So that's in the class right now. So why are we even bothering with teaching them more?",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": -0.382
+      },
+      {
+        "text": "if you're having a class that large, that's a lecture. That's not a discussion-based class. Okay. And that's going back to my, you know, undergrad experience. I went to [NAME] [NAME]. My largest class size ever was like 20 people. That, you can have a conversation, but you can't try and force a conversation with 85 people. I've never seen a good conversation come from that at HKS. So if you're going to have, leave that to the smaller class sizes.",
+        "program": "MIXED",
+        "speaker": "Speaker 7",
+        "sentiment": -0.298
+      },
+      {
+        "text": "I would say not much pushback. So I think one of the things with participation is I noticed that there's not much disagreement with what students are saying, even if something might be factually incorrect or questionable.",
+        "program": "MPP1",
+        "speaker": "Speaker 6",
+        "sentiment": -0.023
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "every class usually and they're taking attendance or taking participation in the same way the scribe is doing that at HBS. And so, yeah, I've also gotten emails, like your point about professors, like they'll be like, I saw you on technology or like, I'm not sure if you were, and it kind of scares you. But I think to add to this broader professionalism discussion, one thing that I think is really important that I see it as a actual problem here is like having students know like what's a valuable comment or question in class versus what is like actually not valuable or potentially detracting. No, I think it's like you shouldn't ask, like you shouldn't ask a question or make a comment to like take up space in a classroom. And I really think like MCMPAs do that. And it's like, we're not trying to like have a discussion about your experience in the middle of a lecture. So it's like time and place. And so I think like, because people feel like participation is a grade that they have to speak but if you don't actually have something to add or say or push the conversation correctly like I think there is a way to like make it clear what is like a better question versus not and I've seen professors here handle questions that are like oh like that is like not something we're going into right now but sometimes like professors just go with it and it's like or just like let them go on and on and like I've seen professors at HBS kind of like",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.997
+      },
+      {
+        "text": "i i generally agree and and and share your perspective in that sense but i also feel that sometimes um i'm trying to to find like a more like that sometimes uh class discussions are like simulacra of discussion rather than actual discussion. Sometimes it's because there are, and maybe also it's a cultural thing, maybe not maybe, I think it's a cultural thing, setting too many rules to the extent for discussion, to the extent that it's clear what you're not allowed to say and what you're allowed to say. or I just found myself sometimes in the class subjects are so interesting, but I mean, probably, you know, there are a lot of, you know, reasons for that, and I don't put the blame, all the blame on the professors or the institution or the students. It's like a mix. But sometimes we like, there is a super interesting subject, But no one says anything, you know, substantial. And for me also, as an MCMP, and I know what kind of students I share the class with, with amazing experiences, I always found myself throughout this year having the most interesting discussions outside class, rather in class.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.994
+      },
+      {
+        "text": "OK, thank you. Yes, Triti. Yes. I wish there was a more transparent process on understanding where we are on participation. I think some classes do a great job of like emailing people saying you like it's okay if you don't raise your hands the next few classes which I really appreciate I think everyone deserves like time enough time to talk in class okay yeah so it would be nice to have a transparent",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.983
+      },
+      {
+        "text": "I wanted to decrease the participation scores percentages because like from some [NAME] students, especially from [NAME] students, although they have amazing ideas, they just didn't get used to speaking up a lot. And then, although they do extremely great on other stuff, but their score is lower than mine, I always, like, shamelessly, mindlessly speak, which seems really unfair. And also, like, sometimes the participation score is, for some classes, 40%. And it makes me, like, just push myself, like, perform instead of, like, asking what is important for me. So that seems like, if it's, like, really, like, lower for me, it's beneficial.",
+        "program": "MPP1",
+        "speaker": "Speaker 9",
+        "sentiment": 0.975
+      },
+      {
+        "text": "I don't know. Or make the whole class for that day a discussion, like how it is at HBS, where everyone knows, like I have one comment, we know what we're talking about, because when it is an 80 or 90 person class with a 50 participation requirement or part of the grade but it's a lecture and so then people are like I have to get in because it's like well it's actually a lecture so they shouldn't have 50 participation or if it is a large discussion class the professor should facilitate a discussion and not take up space themselves because again like it comes back to this disjointed and what is the expectation because I think like students will be more professional if the norms and expectations are communicated up front by professors, even on a daily change, if the classroom structure is like today, the discussion versus a lecture. So just like be conscious of how you ask or make comments, given that.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.967
+      },
+      {
+        "text": "greatest participation and you have someone in the classroom who is annotating everything that's said all the time the scribe will annotate like hey [NAME] showed up later [NAME] on her phone and guess what even if you talked zero points that day and that can matter because you're trying, you're not getting in every class. Yeah. So that's like a hold on.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": 0.895
+      },
+      {
+        "text": "Well, yeah, I mean, yeah. But I don't think the professors are necessarily trying to shut down a student from speaking either. So allowing it to continue to go kind of takes away from it. I don't know. I guess the biggest thing is if we're reading 150 pages on a subject, I'd at least like to address the subject in that classroom. And there have been some professors I've taken that we don't even touch on the subject because we kind of go down these different pathways, I think, kind of to your point, [NAME].",
+        "program": "MCMPA",
+        "speaker": "Speaker 8",
+        "sentiment": 0.718
+      },
+      {
+        "text": "Can I follow up with [NAME]? Yes. Yes. So what proportion do you think it is about the debates that the class is not structured that way or there's a self-election of students that are not...",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.66
+      },
+      {
+        "text": "in a way that brings the learning forward. It goes back to the classes being way too big because I've taken classes here that are 80 people, 90 people, and then you have a 40 to 50 percent participation grade and you can't, so people feel like they need to talk, but you can't have a conversation amongst a hundred people. Um, and you certainly can't have a generative one. You can only have the most one comments in that class and that doesn't, does generate a conversation. So I think if you're going to have classes that large, you can't have a sizable participation grade",
+        "program": "MIXED",
+        "speaker": "Speaker 7",
+        "sentiment": 0.61
+      },
+      {
+        "text": "not necessarily. People don't want to talk. Like, even when there's opportunity to talk, we have philosophy class where we could debate about moral issues, justice, things like that. People didn't talk. So, like, I'm not sure how much of a problem is that some classes are not structured that way, and that the students are simply not doing it because they don't want to. Okay.",
+        "program": "MPAID",
+        "speaker": "Speaker 2",
+        "sentiment": 0.514
+      }
+    ]
+  },
+  "14": {
+    "label": "Teaching Quality & Classroom Experience",
+    "most_positive": [
+      {
+        "text": "Sorry, let's go. I was going to build off on the HBS experience itself. I also did a cross-registration at HBS, and it was really, like, I agree with everything that [NAME] said, but I would also say that I think the professor there, and again, I don't know if it was just that class or classes at HBS, but I think they did a fabulous job of knowing who to call when. That was important in the discussion. I think they did a very close scrutiny of teach lead profiles or like the resumes that we submitted to them. But I think they did a fabulous job of cold calling when they did. So I feel like a lot of times in the classes here, I feel like there are many repetitive examples of people. There are stories, which is amazing, but I feel like it could be a little tight there. Okay.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.986
+      },
+      {
+        "text": "So A that, but also like the acronyms are used in some of these classes, especially the core classes. I remember specifically in PDD, we did not, we were not allowed to use tech, but they would use acronyms and I wouldn't know what that meant. And I'm like, I need to Google this, you know, but then I would get a stiff look. So I wouldn't Google it. And I'm just sitting in class like, okay, I just don't know what we're talking about. So it would be nice. I'm sorry. You were also in the front row. Yeah, I was also in the front row. So it would be helpful if we either allowed tech or made the classes more international student friendly. Especially for people who are not familiar and non-native English speakers.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.979
+      },
+      {
+        "text": "Can I qualify? I think like I don't mean like a smaller student body but like classes that reflect the amount of students that are here, like amount of classes and like so enough that like we don't feel like we might not get the classes that we really want. So if we're gonna have more students, maybe more classes or yeah.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.943
+      },
+      {
+        "text": "Yeah, I'm sure it's in the bed. Yeah, I feel closer to you, I think, than some of the HBS people, where there's like a really good pedagogy. Because I think Sloan just has a huge amount of variance in the classes. And I feel like this experience has been closer.",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": 0.935
+      },
+      {
+        "text": "Yes, do you have? So I have a perspective from the class registration system. Yes. Because we have like cross-register to different schools, and I know like there are some schools, especially at HBS and MIT, they have their own like, I mean, registration system. So sometimes when we look at the MyHarvard system, we cannot say exactly what the class is about, or the content of the class, or the, I mean, maybe the professor, or some of the contents from MyHarvard, we need to find, like the HBS link, or we need to find the MIT system link to get to that class. So I don't know how it can be fixed, because I know there are different systems. It's really hard to combine the differences into a whole. But I mean, at least maybe we can clarify about that. Because I know for HBS class, we can say there is a link directly to the class. the way that trying to register for the class, there will be a link directly to the HBS website. So, I mean, it's very clear, but for MIT class, I noticed that there's a very small course catalog below the page, and we need to click that and to direct to the MIT system. But most of the people, they don't know about that.",
+        "program": "MPP2",
+        "speaker": "Speaker 10",
+        "sentiment": 0.88
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "I agree with a lot of them. I'll try to offer a new one. I think we need to reduce class sizes. The size of the race and racism classes makes me feel like the program doesn't actually care about race and racism. So why is it required if I'm in a class of 120 people?",
+        "program": "MPP1",
+        "speaker": "Speaker 8",
+        "sentiment": -0.78
+      },
+      {
+        "text": "Unfortunately, it might be a sizable, but it's a sizable minority that show up prepared and doing the right thing, and that's frustrating.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": -0.494
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "Sorry, let's go. I was going to build off on the HBS experience itself. I also did a cross-registration at HBS, and it was really, like, I agree with everything that [NAME] said, but I would also say that I think the professor there, and again, I don't know if it was just that class or classes at HBS, but I think they did a fabulous job of knowing who to call when. That was important in the discussion. I think they did a very close scrutiny of teach lead profiles or like the resumes that we submitted to them. But I think they did a fabulous job of cold calling when they did. So I feel like a lot of times in the classes here, I feel like there are many repetitive examples of people. There are stories, which is amazing, but I feel like it could be a little tight there. Okay.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.986
+      },
+      {
+        "text": "So A that, but also like the acronyms are used in some of these classes, especially the core classes. I remember specifically in PDD, we did not, we were not allowed to use tech, but they would use acronyms and I wouldn't know what that meant. And I'm like, I need to Google this, you know, but then I would get a stiff look. So I wouldn't Google it. And I'm just sitting in class like, okay, I just don't know what we're talking about. So it would be nice. I'm sorry. You were also in the front row. Yeah, I was also in the front row. So it would be helpful if we either allowed tech or made the classes more international student friendly. Especially for people who are not familiar and non-native English speakers.",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.979
+      },
+      {
+        "text": "Can I qualify? I think like I don't mean like a smaller student body but like classes that reflect the amount of students that are here, like amount of classes and like so enough that like we don't feel like we might not get the classes that we really want. So if we're gonna have more students, maybe more classes or yeah.",
+        "program": "MPP2",
+        "speaker": "Speaker 3",
+        "sentiment": 0.943
+      },
+      {
+        "text": "Yeah, I'm sure it's in the bed. Yeah, I feel closer to you, I think, than some of the HBS people, where there's like a really good pedagogy. Because I think Sloan just has a huge amount of variance in the classes. And I feel like this experience has been closer.",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": 0.935
+      },
+      {
+        "text": "Yes, do you have? So I have a perspective from the class registration system. Yes. Because we have like cross-register to different schools, and I know like there are some schools, especially at HBS and MIT, they have their own like, I mean, registration system. So sometimes when we look at the MyHarvard system, we cannot say exactly what the class is about, or the content of the class, or the, I mean, maybe the professor, or some of the contents from MyHarvard, we need to find, like the HBS link, or we need to find the MIT system link to get to that class. So I don't know how it can be fixed, because I know there are different systems. It's really hard to combine the differences into a whole. But I mean, at least maybe we can clarify about that. Because I know for HBS class, we can say there is a link directly to the class. the way that trying to register for the class, there will be a link directly to the HBS website. So, I mean, it's very clear, but for MIT class, I noticed that there's a very small course catalog below the page, and we need to click that and to direct to the MIT system. But most of the people, they don't know about that.",
+        "program": "MPP2",
+        "speaker": "Speaker 10",
+        "sentiment": 0.88
+      },
+      {
+        "text": "Yes. I think we have a lot of people. I'm personally not familiar with a lot of acronyms that work in the U.S. cases that we learn. we learn a lot of US cases and a lot of classes are just US focused. There's a class on US Congress going on right now, which I'm so interested in,",
+        "program": "MPP2",
+        "speaker": "Speaker 11",
+        "sentiment": 0.831
+      },
+      {
+        "text": "Oh. Yeah. I mean, I'll go back to what I've been saying, but caps on class size. Yeah, I think some of my classes have just felt too big for a graduate program. That's good.",
+        "program": "MIXED",
+        "speaker": "Speaker 7",
+        "sentiment": 0.805
+      },
+      {
+        "text": "yes I think it's also teachly from my understanding tracks how many times you participate which is sort of a ridiculous measure of like the quality of your contributions to the classroom so maybe I don't know having some other system but yeah 100% and also on the stat thing I totally agree I came in with a stat background too",
+        "program": "MPP1",
+        "speaker": "Speaker 13",
+        "sentiment": 0.802
+      },
+      {
+        "text": "No, like last semester I was in one of the 70. I think a lot of us were in the same class. And that even, like, I think it's an intersection of class size and a huge participation grade. Uh-huh. Really like the intersection of those two really make it not worthwhile.",
+        "program": "MPP1",
+        "speaker": "Speaker 8",
+        "sentiment": 0.794
+      },
+      {
+        "text": "I agree with a lot of them. I'll try to offer a new one. I think we need to reduce class sizes. The size of the race and racism classes makes me feel like the program doesn't actually care about race and racism. So why is it required if I'm in a class of 120 people?",
+        "program": "MPP1",
+        "speaker": "Speaker 8",
+        "sentiment": -0.78
+      }
+    ]
+  },
+  "15": {
+    "label": "Core Curriculum Experience",
+    "most_positive": [
+      {
+        "text": "Sure. So, yeah, I think a lot of it has been said by my friends already. But, yeah, coming to first, the rigor, I do think the course is very rigorous, like in a good way. So for me also, I did not do economics as an undergrad. I did have econ background, but given that it was very rigorous. But also, I think it's extremely interesting the way we are learning. And as some of my friends mentioned that the way everything is interconnected, how the courses are so well designed that what we are learning is parallelly used in other courses. For instance, we're learning game theory now, and we can see it's been used in our politics and in our developed many concourses as well. So I love that it's been organized in a way where we can use our learnings, like even econometrics from one course to the other courses. And coming to the professors, they are very professional in their conduct and the way they have planned and prepared the curriculum, the way they have planned the teaching methodology. I think that is very well designed. So I really admire that. And going to the students' professionalism also, I think if I just talk about their conduct in class, I think that's very professional. Because I love the diversity we have, especially in MPAID specifically, with most of the batch being international. And there could be opportunities that we come from very widely different cultures and everything. But when we are expressing our thoughts in class or when we are giving our point of view, I think that's very professional. And it's also fantastic that you're talking about, say, one country as an example, and we have someone from that country or that region right there who can give a first-hand perspective, which I think is really valuable that we have the lived experiences of people. One thing which I think I would like, I don't know if it comes in the classroom question or overall, I would definitely love a little bit more of a debate and discussion culture.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.998
+      },
+      {
+        "text": "I found the skill-based courses very effective, and I find it a bit problematic when I have to bid, like, all my points for, like, a writing class. I didn't take any writing class because I just cannot, you know, bid, you know, 900, you know, sorry, like, yeah, 900 points for this thing that I don't think that it should go for bidding at all. So every, like, skills-based, you know, class, I think, you know, should be, as [NAME] suggested, yeah, more, like, mandatory and, like, also more options. I feel like that, yeah, I think for structural reasons, I am not, you know, leaving this school with the, like, the complete toolkit in terms of policy that I was hoping to have here. and I think it's only for structural reasons. Also for me, part of that was because, and I don't know if it's relevant for you, I mean the DRM track, and so it basically means that half of the credits that I have, half of the program credits, I have to take DRM designated courses, but the courses that are offered as part of the DRM track, they're supposed to be STEM-oriented. I think 80% of them, none of us understands what is their connection to DRM or STEM and it's like something, it became like I don't know who's in charge of that but it became like something like in a opinion we all share, we don't understand what is the logic behind this and why there are certain courses that are there and certain courses that are not there so I think there should be, as you said, maybe less freedom and more buckets that are skill-based and have the option of attend those classes without beating on you, if it's a skill-based class. I know it came out a bit messy.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.991
+      },
+      {
+        "text": "For me, it's very similar to what the [NAME] have said. it's very like academic, like intellectually challenging academically. But I think one input from me is like I wish that like the core courses on the first year could have been more spreading out to the second year. Because like sometimes like I feel that like we as an MPAID we don't really have like opportunities to take like courses outside the core courses on the first year which is like a shame because like when I, I'm in the second year now, I feel like a lot of courses in HK are really good. That's not economics. For example, this semester I take a lot of courses on communication, on media, it's as important as economics itself because I work for the Ministry of [NAME] and those kind of courses really helped me in building my career later on.",
+        "program": "MPAID",
+        "speaker": "Speaker 5",
+        "sentiment": 0.99
+      },
+      {
+        "text": "is? No, I think that it's just trying to it's trying to solve the wrong problem and it's not solving that problem well even though it's the wrong problem. I don't need to know how to program an R code for anything I'm ever going to do ever in my life and I don't think any public servant does either but yet we're required to take econometrics and statistics but you can place out of it so it's like also if it's required, it's required again, I'm old school But then the second part is like, I think you should have a good sense of economic understanding if you're going to write policy. But I don't need to spend six weeks doing like graphing utility curves and supply and demand curves. I need to see examples. Again, I'm a big believer it should be like a case based thing. I think it's super helpful. But like if you're going, we should be talking about why the principles that would work for local budgetary concerns and policy like on [NAME] [NAME] wouldn't work when we're talking about development finance. Like, those differences are what we need to learn. We don't need to learn the underlying economics and calculus underneath it.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": 0.986
+      },
+      {
+        "text": "Yeah, one thing might be pessimistic, but when we look at the [NAME] for the [NAME], the first thing I look at is the course description, and it describes very well. But then it says, like, I'll drop this course. You will be able to delve into regions like Korea, Japan, India, and so on, which seems like it's just written there, like a whole lot of countries to kind of attract different students from other countries. Because when you look at the syllabus and you actually take the course, you don't really delve that much into that specific region. So maybe some economic going on there, but I wish it could be more candid. Yeah, I think that would be really helpful.",
+        "program": "MPP2",
+        "speaker": "Speaker 9",
+        "sentiment": 0.98
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "if people who are more advanced because of their prior courses are opting into more difficult courses then the core can adjust to also meet the needs more of students who are struggling. And I think that's the way to kind of make that benefit everyone. [NAME] one of the challenges is people's questions aren't being answered enough for example in stats or econ and they spend a lot of time in office hours because the course is too difficult for them. So just spread it out.",
+        "program": "MPP1",
+        "speaker": "Speaker 6",
+        "sentiment": -0.361
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "Sure. So, yeah, I think a lot of it has been said by my friends already. But, yeah, coming to first, the rigor, I do think the course is very rigorous, like in a good way. So for me also, I did not do economics as an undergrad. I did have econ background, but given that it was very rigorous. But also, I think it's extremely interesting the way we are learning. And as some of my friends mentioned that the way everything is interconnected, how the courses are so well designed that what we are learning is parallelly used in other courses. For instance, we're learning game theory now, and we can see it's been used in our politics and in our developed many concourses as well. So I love that it's been organized in a way where we can use our learnings, like even econometrics from one course to the other courses. And coming to the professors, they are very professional in their conduct and the way they have planned and prepared the curriculum, the way they have planned the teaching methodology. I think that is very well designed. So I really admire that. And going to the students' professionalism also, I think if I just talk about their conduct in class, I think that's very professional. Because I love the diversity we have, especially in MPAID specifically, with most of the batch being international. And there could be opportunities that we come from very widely different cultures and everything. But when we are expressing our thoughts in class or when we are giving our point of view, I think that's very professional. And it's also fantastic that you're talking about, say, one country as an example, and we have someone from that country or that region right there who can give a first-hand perspective, which I think is really valuable that we have the lived experiences of people. One thing which I think I would like, I don't know if it comes in the classroom question or overall, I would definitely love a little bit more of a debate and discussion culture.",
+        "program": "MPAID",
+        "speaker": "Speaker 8",
+        "sentiment": 0.998
+      },
+      {
+        "text": "I found the skill-based courses very effective, and I find it a bit problematic when I have to bid, like, all my points for, like, a writing class. I didn't take any writing class because I just cannot, you know, bid, you know, 900, you know, sorry, like, yeah, 900 points for this thing that I don't think that it should go for bidding at all. So every, like, skills-based, you know, class, I think, you know, should be, as [NAME] suggested, yeah, more, like, mandatory and, like, also more options. I feel like that, yeah, I think for structural reasons, I am not, you know, leaving this school with the, like, the complete toolkit in terms of policy that I was hoping to have here. and I think it's only for structural reasons. Also for me, part of that was because, and I don't know if it's relevant for you, I mean the DRM track, and so it basically means that half of the credits that I have, half of the program credits, I have to take DRM designated courses, but the courses that are offered as part of the DRM track, they're supposed to be STEM-oriented. I think 80% of them, none of us understands what is their connection to DRM or STEM and it's like something, it became like I don't know who's in charge of that but it became like something like in a opinion we all share, we don't understand what is the logic behind this and why there are certain courses that are there and certain courses that are not there so I think there should be, as you said, maybe less freedom and more buckets that are skill-based and have the option of attend those classes without beating on you, if it's a skill-based class. I know it came out a bit messy.",
+        "program": "MCMPA",
+        "speaker": "Speaker 7",
+        "sentiment": 0.991
+      },
+      {
+        "text": "For me, it's very similar to what the [NAME] have said. it's very like academic, like intellectually challenging academically. But I think one input from me is like I wish that like the core courses on the first year could have been more spreading out to the second year. Because like sometimes like I feel that like we as an MPAID we don't really have like opportunities to take like courses outside the core courses on the first year which is like a shame because like when I, I'm in the second year now, I feel like a lot of courses in HK are really good. That's not economics. For example, this semester I take a lot of courses on communication, on media, it's as important as economics itself because I work for the Ministry of [NAME] and those kind of courses really helped me in building my career later on.",
+        "program": "MPAID",
+        "speaker": "Speaker 5",
+        "sentiment": 0.99
+      },
+      {
+        "text": "is? No, I think that it's just trying to it's trying to solve the wrong problem and it's not solving that problem well even though it's the wrong problem. I don't need to know how to program an R code for anything I'm ever going to do ever in my life and I don't think any public servant does either but yet we're required to take econometrics and statistics but you can place out of it so it's like also if it's required, it's required again, I'm old school But then the second part is like, I think you should have a good sense of economic understanding if you're going to write policy. But I don't need to spend six weeks doing like graphing utility curves and supply and demand curves. I need to see examples. Again, I'm a big believer it should be like a case based thing. I think it's super helpful. But like if you're going, we should be talking about why the principles that would work for local budgetary concerns and policy like on [NAME] [NAME] wouldn't work when we're talking about development finance. Like, those differences are what we need to learn. We don't need to learn the underlying economics and calculus underneath it.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": 0.986
+      },
+      {
+        "text": "Yeah, one thing might be pessimistic, but when we look at the [NAME] for the [NAME], the first thing I look at is the course description, and it describes very well. But then it says, like, I'll drop this course. You will be able to delve into regions like Korea, Japan, India, and so on, which seems like it's just written there, like a whole lot of countries to kind of attract different students from other countries. Because when you look at the syllabus and you actually take the course, you don't really delve that much into that specific region. So maybe some economic going on there, but I wish it could be more candid. Yeah, I think that would be really helpful.",
+        "program": "MPP2",
+        "speaker": "Speaker 9",
+        "sentiment": 0.98
+      },
+      {
+        "text": "advanced courses too. But if you want to be an economist, go get an economist degree. What I'm saying is five years from now, I think public policy folks and public administrators are just going to queue up [NAME] or some AI and validate their economic intuition to make sure that the numbers run well. I don't think they're going to have as much of a need for those technical capabilities. That's kind of dangerous though, I think. Well, that's a whole AI integration into our knowledge skill set conversation, which I don't know is utilitarian here. But what I'm saying is that like, to [NAME]'s point, like if you didn't take economics in college, like you have a summer course rather than the like 40 negotiations readings that I had to do. And then when we show up, we're going to start applying the principles of supply and demand. But yeah, if you need to catch up, that's fine. But I don't get the sense the majority people in my economics class for the MPP core, we're sitting there learning brand new material.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": 0.972
+      },
+      {
+        "text": "So mine is, yeah, so we can start, like, in a categorization of class. Like, this is econ-based or this is, you know, there are some categories, like, you know, STEM or not. Or it's kind of, like, IGA or BGP something. But I think we need more information on that, you know, before entering the class. like, yeah, it's kind of eco and practical, theoretical, something, and discussion-based. And also, yeah, another idea is-- it's kind of a small idea, but bidding term is quite too early, I guess. Yeah, because even if we haven't joined a class, we have to bid in a class, so we cannot get an idea.",
+        "program": "MPP2",
+        "speaker": "Speaker 7",
+        "sentiment": 0.938
+      },
+      {
+        "text": "So I think one of the courses that's offered by [NAME], like on the [NAME] Field [NAME], there should be more of those. I mean, we've just had one or two, I guess. So, I mean, we've got very good research. Yeah, exactly. You've got very good, it's all there. It's just that we need to create that field. Yeah.",
+        "program": "MCMPA",
+        "speaker": "Speaker 4",
+        "sentiment": 0.928
+      },
+      {
+        "text": "degree. You can also have it be during the summer because at HBS, if you don't know what a balance sheet is, you're not sitting in accounting one-on-one day one learning that. Like there's an expectation that you do the 90 hour pre-accounting course because like we're going straight into bookkeeping, bookkeeping and networking. Like you, you can't like come in with nothing, even if you aren't someone who's taken an accounting class before coming to business school. So I think if it is a graduate professional degree and like there is a need, because like I do see why you're graphing, you know, supply and demand and like you're building the building blocks of economic intuition before you can apply it to finance. But like if there are people coming in with that background and you want to have more room for this, like why can't there be an online course?",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.922
+      },
+      {
+        "text": "I don't know. I think I would sort of push back on what you said. I mean, I think professionals, people in government, people, they can do technical work. And these technical classes are useful, I think. Maybe they're not always done well or taught the way that you'd like. But I think knowing how to do economics and knowing the theory behind the economics is important in order to be a good economist, at least from my perspective. I've enjoyed a lot of the more technical components.",
+        "program": "MIXED",
+        "speaker": "Speaker 7",
+        "sentiment": 0.915
+      }
+    ]
+  },
+  "16": {
+    "label": "Core Curriculum & MPAID Experience",
+    "most_positive": [
+      {
+        "text": "So you don't want to over architect it. But at the same time, like if you have no, like what, like not even one core classic, I didn't even know that. But I think like the other thing that I think we can comment on that helps like tie our experience together is like we have this joint degree class that's like facilitated by HBS and HKS together for the MPPs and MPAIDs who are joint with HBS only. And that's like for all three years. And it's, I think it's just like a really great mechanism to bring together these dualies. And so like, it doesn't have to be an MPA core, but it could be again, like, how do you bring together your MBA with your flexible MPA? Like, I just, I feel like just having one thing to put it all together would fix exactly the problems you're having.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.994
+      },
+      {
+        "text": "know if this is precisely um what i i don't know if it's like as relevant but i'm thinking of our program more than like the programs all together i think it's hard to have intentionality when you don't have any core um and that's more for like mpas i think all of our courses are like this compared to you guys at least you have a core for a while and then yes you get some of these courses that are like maybe all over the place but i think for us it's really hard to design like we don't even have like that kind of like coaching or guidance to design a program that fits our needs um i think some of us might come with more like a clearer idea of like what they want to do in life and i'm gonna focus on i don't know this like this particular track and then i'm gonna find all these classes that align but from my experience most people might say in their essays that they know where they're going but most people actually don't know where they're going and they end up with like a hodgepodge of classes that don't really align in any way. And I think it's just, it's an education, but I don't know, me and [NAME] and [NAME] probably have had very different experiences, and we come out with the same degree not knowing any, to be honest, just not knowing what public administration even is, or like what are the foundations of it. Like what do we share in common? I have no idea.",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": 0.993
+      },
+      {
+        "text": "Yeah, and I think, like, part of that is actually potentially related to the MPA, since they are both an MPA. It's like, I'm one of two or three [NAME] in the MPAID, and that's how it is every year. And there's kind of an aversion from the administration and, like, the intention of the MPAID to like have it be more focused on like economic development not necessarily internationally because like for me this is like where I want to focus on development the reason I wanted the MPAID is for the economist like toolkit because that's that's offered and so it's like why can't it be the MPAID because I think like in a world you could attract a lot more [NAME] you could have some of the like electives or focus be more international for the international students we'll hold on the details",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.982
+      },
+      {
+        "text": "Okay, this is kind of...it interjects a lot of different ideas, but I think that there should be more career pathways within the program. Like, I think it should be very clear, like, if I want to be chief of staff, these are classes, I should take, like, finance, legislative writing, blah, blah, blah. Like, it should be very clear. And I don't think the core necessarily should be rigid to everyone. Like, it should be based off, like, what you want from the program. And I think that there should be a legislative writing class at HK, and it's insane that there isn't.",
+        "program": "MPP2",
+        "speaker": "Speaker 4",
+        "sentiment": 0.975
+      },
+      {
+        "text": "I still think that there should be, like, the expectation you use are, whether it's, like, with quad code or you're learning it yourself. Like, I still think, like, all of these technical things should be taught in the core. But my broader point is, like, if there isn't a baseline level of basics, this is a graduate degree. Like, you can have coursework that gets people to a baseline so that it doesn't feel as rudimentary and elementary for some of the MPP core and maybe create room for some of the things that [NAME] is adding. But I think it's just this idea of, like, it's actually smaller tweaks than you think, because I agree with you. I don't think you should take out these technical components, but you should be more strategic of how you actually lever the two years in the class time.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.962
+      }
+    ],
+    "most_negative": [
+      {
+        "text": "And I think maybe what it sounds like you're saying to me is that it is a professional degree. And it's supposed to be a professional degree. And so it should apply in a profession. And, like, there's a broader question of, like, is being a business person a profession? There's actually a lot of debate about this. Is being a public servant a profession in the same way that being a journalist or a doctor or the military is a profession? but I think that there's a degree of my girlfriend was an MPP and graduated last year from the MPP and came in having done no policy work and with an [NAME] literature major and there were classes she took that including the sort of big intro to public finance and budgeting class that were really significant to her but were not in the core and I think that sometimes the core the scapegoat argument around the MPP core is we have a lot of people from diverse backgrounds, so we can't teach them all the same things. We have to do all this one-on-one stuff, but you can do one-on-one stuff that is part of a professional",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": -0.621
+      },
+      {
+        "text": "The purest version of the idea is no MCMPAs. The actual version of the idea is have some classes that are not able to be enrolled by MCMPAs.",
+        "program": "MIXED",
+        "speaker": "Speaker 8",
+        "sentiment": -0.296
+      }
+    ],
+    "most_intense": [
+      {
+        "text": "So you don't want to over architect it. But at the same time, like if you have no, like what, like not even one core classic, I didn't even know that. But I think like the other thing that I think we can comment on that helps like tie our experience together is like we have this joint degree class that's like facilitated by HBS and HKS together for the MPPs and MPAIDs who are joint with HBS only. And that's like for all three years. And it's, I think it's just like a really great mechanism to bring together these dualies. And so like, it doesn't have to be an MPA core, but it could be again, like, how do you bring together your MBA with your flexible MPA? Like, I just, I feel like just having one thing to put it all together would fix exactly the problems you're having.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.994
+      },
+      {
+        "text": "know if this is precisely um what i i don't know if it's like as relevant but i'm thinking of our program more than like the programs all together i think it's hard to have intentionality when you don't have any core um and that's more for like mpas i think all of our courses are like this compared to you guys at least you have a core for a while and then yes you get some of these courses that are like maybe all over the place but i think for us it's really hard to design like we don't even have like that kind of like coaching or guidance to design a program that fits our needs um i think some of us might come with more like a clearer idea of like what they want to do in life and i'm gonna focus on i don't know this like this particular track and then i'm gonna find all these classes that align but from my experience most people might say in their essays that they know where they're going but most people actually don't know where they're going and they end up with like a hodgepodge of classes that don't really align in any way. And I think it's just, it's an education, but I don't know, me and [NAME] and [NAME] probably have had very different experiences, and we come out with the same degree not knowing any, to be honest, just not knowing what public administration even is, or like what are the foundations of it. Like what do we share in common? I have no idea.",
+        "program": "MIXED",
+        "speaker": "Speaker 4",
+        "sentiment": 0.993
+      },
+      {
+        "text": "Yeah, and I think, like, part of that is actually potentially related to the MPA, since they are both an MPA. It's like, I'm one of two or three [NAME] in the MPAID, and that's how it is every year. And there's kind of an aversion from the administration and, like, the intention of the MPAID to like have it be more focused on like economic development not necessarily internationally because like for me this is like where I want to focus on development the reason I wanted the MPAID is for the economist like toolkit because that's that's offered and so it's like why can't it be the MPAID because I think like in a world you could attract a lot more [NAME] you could have some of the like electives or focus be more international for the international students we'll hold on the details",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.982
+      },
+      {
+        "text": "Okay, this is kind of...it interjects a lot of different ideas, but I think that there should be more career pathways within the program. Like, I think it should be very clear, like, if I want to be chief of staff, these are classes, I should take, like, finance, legislative writing, blah, blah, blah. Like, it should be very clear. And I don't think the core necessarily should be rigid to everyone. Like, it should be based off, like, what you want from the program. And I think that there should be a legislative writing class at HK, and it's insane that there isn't.",
+        "program": "MPP2",
+        "speaker": "Speaker 4",
+        "sentiment": 0.975
+      },
+      {
+        "text": "I still think that there should be, like, the expectation you use are, whether it's, like, with quad code or you're learning it yourself. Like, I still think, like, all of these technical things should be taught in the core. But my broader point is, like, if there isn't a baseline level of basics, this is a graduate degree. Like, you can have coursework that gets people to a baseline so that it doesn't feel as rudimentary and elementary for some of the MPP core and maybe create room for some of the things that [NAME] is adding. But I think it's just this idea of, like, it's actually smaller tweaks than you think, because I agree with you. I don't think you should take out these technical components, but you should be more strategic of how you actually lever the two years in the class time.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.962
+      },
+      {
+        "text": "I guess maybe just to peel one more layer back to exactly [NAME]'s question is like, is the intention here for us to give kind of like very tactical quick wins that could be changed? Or and or like more structural things, like if you're kind of stepping back and doing like a strategy refresh, it sounds like in a kind of multi year period, like, I feel like some of the comments I can give are like, let's like reframe maybe But like, I think it's kind of like, you know, USAID has been dismantled. So I think the MPAID needs to structurally change. And that's not a tactical thing.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.959
+      },
+      {
+        "text": "I want to add, and then I'll talk about my head. I think at least the cases should be given in print. Yeah. Because, you know, you have to look at exhibits. Yeah. And only the cases, wherever necessary, so that way you're not using a lot of paper as well. We don't need the hard copies of the presentations, but the cases would be useful. My idea is that one thing that I feel is lacking, at least for me, and maybe for many people, would be the practical experience of what I've learned in the class. So I feel that a lot of TA-ship and RA-ships are actually restricted to people who've come gore from that field and they are not offered to people who are pivoting, especially mid-careers. A lot of it goes to the MPPs because they know that they're going to be extending. So I feel, I mean, I've asked multiple people, multiple faculty as well as center people, but then I'm pivoting to climate. So it's been very difficult for me to understand what goes what's the rigor behind making that report I can read a report I can do analysis I've been doing that for all my life I've been a consultant but I want to learn something if it's about climate risk we've spoken about something very interesting but I want to see what's at the back because it was the professor's work I want to see those excel sheets and I've asked this to multiple people I'm not I'm not asking for a pay also I said okay I don't want it on one entry basis I just want to kind of shadow people with whom I can learn how they did that excel and because there are certain",
+        "program": "MCMPA",
+        "speaker": "Speaker 4",
+        "sentiment": 0.956
+      },
+      {
+        "text": "No, thank you. And I just want to add, because I know we kind of were laying it on thick. Like, a lot of this is coming from a place of love and not like, I wouldn't do this again from like where it stands today. But I think there's just a lot of like little, at least in the MPAID, there's like a lot of friction points and just hearing your problems, including the two years type of thing. I actually think the MPAID does a pretty good job.",
+        "program": "MIXED",
+        "speaker": "Speaker 6",
+        "sentiment": 0.948
+      },
+      {
+        "text": "okay yes okay so plus one on the good on balance as an MPA I feel the disunified part because unless you're thoughtful and you don't get really much support in developing your course curriculum it doesn't necessarily feel like the courses you take sort of flow into one another or build in a meaningful way unless you're really thoughtful about it and then also disjointed maybe disjointed yeah um and then the last thing that i'll add is classes too large um and the class sizes are too",
+        "program": "MIXED",
+        "speaker": "Speaker 7",
+        "sentiment": 0.928
+      },
+      {
+        "text": "So the first thing I'll say is I've spent a lot of time doing research here on AI, and the biggest thing is we were talking about the lecture-based formats of these classrooms. I would just implore the school to recognize that as AI gets better, expertise is free and fast. In the user's best format, lectures will not matter. And I think a lot of the things that [NAME] was saying was that a lot of the teachers here designed the course about what they want to talk about, not about what's best for the student to learn. And so this is all part of the same shift that I'm recommending. In terms of tying it all together, I think we need to stop thinking about, especially at the MPP core and probably for the MPAID, thinking about topics and start thinking about functions. That if we were to have an end-to-end workflow of something that a government does, like what are the skills that I need, I think that's what the RC core does pretty well. The MPAID core does that. Okay. Then let me just say that for the MPP core, here's what I would recommend that it needs to shift to. There needs to be a finance and budgeting class so that the people in my HKS classes actually know what the hell it means to take an equity stake versus just provide debt. Like, it's so crazy. There should be an operations class. There should be a leadership class. There should be negotiations. We already have that. We already have micro. The second semester, you need a strategy class, like an actual strategy class. I learned more about strategy in our business school joint degree capstone than I learned in any HKS class.",
+        "program": "MIXED",
+        "speaker": "Speaker 5",
+        "sentiment": 0.888
+      }
+    ]
+  }
+}
