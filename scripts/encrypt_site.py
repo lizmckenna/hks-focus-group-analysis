@@ -153,7 +153,7 @@ def encrypt_file(input_path, output_path, password):
 
 
 def main():
-    password = sys.argv[1] if len(sys.argv) > 1 else "HKSfocusgroups2025"
+    password = sys.argv[1] if len(sys.argv) > 1 else "HKSfocusgroups2026"
 
     if OUTPUT_DIR.exists():
         shutil.rmtree(OUTPUT_DIR)
